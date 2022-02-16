@@ -42,7 +42,9 @@ hero:
 
 social:
 - {icon: "ti-github", link: "egjergo"}
+- {icon: "ti-linkedin", link: "eda_gjergo"}
 - {icon: "ti-twitter", link: "eda_gjergo"}
+- {icon: "ti-youtube", link: "TheCosmicWeb"}
 
 
 #-------------------------------
