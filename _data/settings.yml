@@ -42,7 +42,7 @@ hero:
 
 social:
 - {icon: "ti-github", link: "egjergo"}
-- {icon: "ti-linkedin", link: "eda_gjergo"}
+- {icon: "ti-linkedin", link: "eda-gjergo"}
 - {icon: "ti-twitter", link: "eda_gjergo"}
 - {icon: "ti-youtube", link: "TheCosmicWeb"}
 
@@ -100,10 +100,10 @@ blurb-btn-name: know more
 
 skills-title: Research Intersts
 skills:
-- {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '60%'}
-- {name: Interstellar Medium, color: '#9473e6', value: '20%'}
-- {name: Cosmological Simulations, color: '#bdecf6', value: '15%'}
-- {name: Supernova Cosmology, color: '#ffbcaa', value: '5%'}
+- {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '90%'}
+- {name: Interstellar Medium, color: '#9473e6', value: '5%'}
+- {name: Cosmological Simulations, color: '#bdecf6', value: '4%'}
+- {name: Supernova Cosmology, color: '#ffbcaa', value: '1%'}
 
 
 #-------------------------------
