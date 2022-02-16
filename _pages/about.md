@@ -8,6 +8,7 @@ signature: assets/images/about/signature.png
 
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="5px"></p>
+    <p style="float: center;"><img src="/assets/images/icons/dot.ico"></p>
     <p  padding-right="5px" align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.</p>
 </div>
 
