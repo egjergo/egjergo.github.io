@@ -8,7 +8,7 @@ signature: assets/images/about/signature.png
 
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
-    <p >I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.
+    <p align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.
     <br><br>
     We then migrated to Italy where I had the fortune to experience and assimilate into the rich cultural heritage of the land. Astronomy came into my life in kindergarten, and ever since I never changed career aspiration. In middle school I had the other big fortune of getting to know the Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I published a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> at the age of 16, as soon as I was authorized to sign a working contract.
     </p>
