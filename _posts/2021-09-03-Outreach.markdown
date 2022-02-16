@@ -5,15 +5,14 @@ image: /assets/images/blog/post-4.jpg
 date: 2021-09-03
 ---
 
-## Non-fiction best-selling author, YouTube, Chicago-area and Italian High Schools
+### Non-fiction best-selling author, YouTube, Chicago-area and Italian High Schools
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
+<img src="/assets/images/about/HackGjergoClassifica1.png" alt="classifica1" title="classifica1" width="550" align="center" />
+<img src="/assets/images/about/HackGjergoClassifica2.png" alt="classifica2" title="classifica2" width="550" align="center" />
 
- <iframe width="480"
-src="https://www.youtube.com/watch?v=9ee_2n4FuqQ">
-</iframe> 
+<iframe width="642" height="360" src="https://www.youtube.com/embed/9ee_2n4FuqQ">
+</iframe>
 
-
- <iframe width="480"
-src="https://www.youtube.com/watch?v=Eo3PV0HTI9U">
-</iframe> 
+<iframe width="642" height="360" src="https://www.youtube.com/embed/Eo3PV0HTI9U">
+</iframe>

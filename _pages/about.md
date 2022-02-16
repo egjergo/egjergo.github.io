@@ -12,7 +12,7 @@ signature: assets/images/about/signature.png
 </div>
 
 <div>
-<p align="justify" border="5px">We then migrated to Italy where I had the fortune to experience and assimilate into the rich cultural heritage of the land. Astronomy came into my life in kindergarten, and ever since I never changed career aspiration. In middle school I had the other big fortune of getting to know the Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I published a bestseller at the age of 16, as soon as I was authorized to sign a working contract.</p>
+<p align="justify" border="5px">We then migrated to Italy where I had the fortune to experience and assimilate into the rich cultural heritage of the land. Astronomy came into my life in kindergarten, and ever since I never changed career aspiration. In middle school I had the other big fortune of getting to know the Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I published a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> at the age of 16, as soon as I was authorized to sign a working contract.</p>
 </div>
 
 <iframe width="642" height="360" src="https://www.youtube.com/embed/-zF_Ar82kb8">

@@ -18,7 +18,7 @@ The use of Type Ia supernovae has lead two teams -- the Supernova Cosmology Proj
 
 The attached milestone plot from the Supernova Cosmology Project (a spectroscopically-identified sample of Type Ia SNe, collected and analyzed between the 1990s and the early 2000s) 
 
-![SNIa stretch factor]({{site.baseurl}}/assets/img/ANL/stretch_hamuy.gif)
+<img src="/assets/images/blog/stretch_hamuy.gif" alt="stretch factor" title="stretch factor" width="550" align="center" />
 
 Not all Type Ia SNe are standard candles in the sense that they all have the same absolute magnitude (y-axis).There is dispersion (top plot).
 But fortunately, supernovae with lower absolute magnitude grow dimmer faster than the ones with a higher one.
@@ -41,4 +41,4 @@ I worked on the following projects:
 
 * Participated in a series of outreach activities for high school students in the Chicago-area, and on YouTube.
 
-<img src="/assets/img/ANL/ChamblissMedal.JPG" alt="Chambliss Medal" title="Chambliss Medal" width="550" align="center" />
+<img src="/assets/images/about/ChamblissMedal.JPG" alt="Chambliss Medal" title="Chambliss Medal" width="550" align="center" />
