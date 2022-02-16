@@ -5,15 +5,15 @@ title: Eda Gjergo
 logo: 
 author: Eda Gjergo
 description: Astrophysics Postdoc
-email: eda.gjergo@gmail.com
+email: <a href="mailto:eda.gjergo@gmail.com"> Contact me</a>
 github: <a href="https://github.com/egjergo"> Visit my Github</a>
 publications: <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">My publication list on ADS</a>
 copyright: Copyright &copy; 2022 by Eda Gjergo
 
 menu:
 - {name: About, link: '/about'}
-#- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+- {name: Experience, link: '/blog'}
+#- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
