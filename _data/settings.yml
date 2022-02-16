@@ -64,18 +64,18 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#work-process:
+#  - title : "Research and Plan"
+#    icon : "assets/images/icons/plan.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title : "Design and Develop"
+#    icon : "assets/images/icons/design.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title : "Deliver"
+#    icon : "assets/images/icons/print.png"
+#    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 # My Team Section
@@ -96,12 +96,13 @@ work-process:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Research Intersts
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Galactic Chemical and Dust Evolution, color: '#fdb157'}
+#, value: '90%'}
+- {name: Interstellar Medium, color: '#9473e6'}
+- {name: Cosmological Simulations, color: '#bdecf6'}
+- {name: Supernova Cosmology, color: '#ffbcaa'}
 
 
 #-------------------------------
@@ -109,9 +110,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Junior Research Assistant, icon: 'icon-1.png', date: '2011 - 2015', organization: 'Argonne National Lab (Chicago, IL, USA)'}
+- {name: Research Assistant, icon: 'icon-2.png', date: '2015 - 2019', organization: 'Osservatorio Astronomico INAF (Trieste, Italy)'}
+- {name: Postdoctoral Scholar, icon: 'icon-3.png', date: '2019 - Present', organization: 'Wuhan University (Wuhan, China)'}
 
 
 #-------------------------------
@@ -119,10 +120,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Ph.D. in Physics, date: '2019', organization: 'Università degli Studi di Trieste (Trieste, Italy)'}
+- {name: B.S. in Physics, date: '2014', organization: 'Illinois Institute of Technology (Chicago, IL, USA)'}
+- {name: B.S. in Applied Mathematics, date: '2014', organization: 'Illinois Institute of Technology (Chicago, IL, USA)'}
+- {name: International Baccalaureate, date: '2008', organization: 'United World College (Duino, Italy)'}
 
 
 #-------------------------------
