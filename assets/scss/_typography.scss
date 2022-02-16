@@ -13,6 +13,8 @@ p, .paragraph {
   font-weight: 400;
   color: $text-color;
   font-size: 15px;
+  padding: 10px;
+  text-align: justify;
   line-height: 1.8;
   font-family: $primary-font;
   &-lg{
