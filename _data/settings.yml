@@ -57,11 +57,11 @@ blurb:
   two B.S. in Applied Mathematics and Physics at IIT (Chicago, IL, USA).
   
 
-  My research interests include galactic chemical evolution, dust modeling, 
-  cosmological simulations, interstellar and intracluster medium, 
+  I have worked on galactic chemical evolution, dust modeling, 
+  cosmological simulations, the interstellar and intracluster medium, 
   supernova cosmology, and dark energy models. 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: Visit "About"
 
 
 # About Page
@@ -99,7 +99,7 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-skills-title: Research Intersts
+skills-title: Current Research Intersts
 skills:
 - {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '90%'}
 - {name: Interstellar Medium, color: '#9473e6', value: '5%'}
@@ -112,7 +112,7 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Best-seller co-author, icon: 'icon-0.png', date: '2007', organization: 'Sperling & Kupfer | Gruppo Mondadori (Milan, Italy)'}
+- {name: Best-selling co-author, icon: 'icon-0.png', date: '2007', organization: 'Sperling & Kupfer | Gruppo Mondadori (Milan, Italy)'}
 - {name: Junior Research Assistant, icon: 'icon-1.png', date: '2011 - 2015', organization: 'Argonne National Lab (Chicago, IL, USA)'}
 - {name: Research Assistant, icon: 'icon-2.png', date: '2015 - 2019', organization: 'Osservatorio Astronomico INAF (Trieste, Italy)'}
 - {name: Postdoctoral Scholar, icon: 'icon-3.png', date: '2019 - Present', organization: 'Wuhan University (Wuhan, China)'}
