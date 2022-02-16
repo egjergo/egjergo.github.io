@@ -50,8 +50,13 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  I'm an astrophysics postdoc at Wuhan University (China).
+  Prior to this, I earned a Physics Ph.D. in Trieste (Italy), 
+  two B.S. in Applied Mathematics and Physics at IIT (Chicago, IL, USA).
+  
+  My research interests include galactic chemical evolution, dust modeling, 
+  cosmological simulations, interstellar and intracluster medium, 
+  supernova cosmology, and dark energy models. 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
