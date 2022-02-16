@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2022 by Eda Gjergo
 
 menu:
 - {name: About, link: '/about'}
-- {name: Experience, link: '/blog'}
+- {name: Experience, link: '/experience'}
 #- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 

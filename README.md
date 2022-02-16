@@ -1,3 +1,1 @@
-## Contact
-
-<eda.gjergo@gmail.com>
+Personal Website
