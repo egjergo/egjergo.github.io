@@ -1,7 +1,7 @@
 ---
 title:  "Teaching"
 author: "Eda Gjergo"
-img: /assets/images/blog/post-5.jpg
+image: /assets/images/blog/post-5.jpg
 date: 2021-09-02
 ---
 
