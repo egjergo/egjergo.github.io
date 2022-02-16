@@ -5,7 +5,7 @@ image: /assets/images/blog/post-3.jpg
 date: 2021-09-04
 ---
 
-## Undergraduate work (Chicago, IL)
+### Undergraduate work (Chicago, IL)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <font size="1"> Image credit: NGC 602 in Small Magellanic Cloud -- (c) Rob Gendler</font>

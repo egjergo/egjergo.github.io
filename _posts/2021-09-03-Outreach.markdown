@@ -5,7 +5,7 @@ image: /assets/images/blog/post-4.jpg
 date: 2021-09-03
 ---
 
-Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools
+### Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools
 <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
 
 <img src="/assets/images/about/HackGjergoClassifica1.png" alt="classifica1" title="classifica1" width="550" align="center" />
