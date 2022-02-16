@@ -1,7 +1,7 @@
 ---
 title:  "Dust in the intergalactic medium"
 author: "Eda Gjergo"
-img: b.jpg
+img: post-2.jpg
 date: 2021-09-05
 ---
 

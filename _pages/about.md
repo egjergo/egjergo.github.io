@@ -11,7 +11,7 @@ I was born in Tirana (Albania) to artist parents. My father is considered the be
 <img src="/assets/img/pers/carrozzina.jpg" alt="carrozzina"
 	title="carrozzina" width="275" align="center" />
 
-We then migrated to Italy where I had the fortune to experience and assimilate into the rich cultural heritage of the land. Astronomy came into my life in kindergarten, and ever since I never changed career aspiration. In middle school I had the other big fortune of getting to know the Italian Astrophysicist and former Observatory Director Margherita Hack with whom I published a bestseller at the age of 16, as soon as I was authorized to sign a working contract. 
+We then migrated to Italy where I had the fortune to experience and assimilate into the rich cultural heritage of the land. Astronomy came into my life in kindergarten, and ever since I never changed career aspiration. In middle school I had the other big fortune of getting to know the Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I published a bestseller at the age of 16, as soon as I was authorized to sign a working contract. 
 
 <iframe width="642" height="360" src="https://www.youtube.com/embed/-zF_Ar82kb8">
 </iframe>

@@ -1,7 +1,7 @@
 ---
 title:  "Supernova Cosmology at Argonne National Lab"
 author: "Eda Gjergo"
-img: c.jpg
+img: post-3.jpg
 date: 2021-09-04
 ---
 
