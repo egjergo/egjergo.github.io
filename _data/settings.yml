@@ -41,10 +41,10 @@ hero:
   hero-title: Hi! I’m <br> Eda Gjergo <br> Astrophysics Postdoc
 
 social:
-- {icon: "ti-github", link: "egjergo"}
-- {icon: "ti-linkedin", link: "eda-gjergo"}
-- {icon: "ti-twitter", link: "eda_gjergo"}
-- {icon: "ti-youtube", link: "TheCosmicWeb"}
+- {icon: "ti-github", link: "https://github.com/egjergo"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.cn/injobs/in/eda-gjergo"}
+- {icon: "ti-twitter", link: "https://twitter.com/eda_gjergo"}
+- {icon: "ti-youtube", link: "https://www.youtube.com/user/TheCosmicWeb"}
 
 
 #-------------------------------
