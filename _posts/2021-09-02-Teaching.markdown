@@ -23,10 +23,7 @@ Mentored Wuhan University undergraduate student Jinning Liang with research on g
 
 
 ### Introduction to Astrophysics at Università degli Studi di Trieste:
-#### General Relativity and Cosmology (2 hours, Fall 2017 and Fall 2018)
-
-[PDF slides]({{site.url}}assets/docs/MatteucciClassPres.pdf)
-
+#### General Relativity and Cosmology (2 classes, Fall 2017 and Fall 2018)
 
 <a href="www.edagjergo.com/assets/docs/MatteucciClassPres.pdf">
 <img src="/assets/docs/units.png" alt="units" title="UniTS lecture"/>
