@@ -25,3 +25,8 @@ signature: assets/images/about/signature.png
 I obtained my high school diploma in the selective (3.5% acceptance rate) <a href="https://www.uwcad.it/" target="_blank">United World College of the Adriatic</a>, and subsequently received scholarships that helped me attend the <a href="https://www.iit.edu/" target="_blank">Illinois Institute of Technology</a> in Chicago, IL, where I was a double major in Applied Mathematics and Physics. In 2011 I joined the Supernova Cosmology group in the HEP Division of <a href="https://www.anl.gov/hep" target="_blank">Argonne National Laboratory</a>. Our research efforts led me to win the Chambliss Medal for <a href="/2021/09/04/ANL/" target="_blank">exemplary research</a>. I continued conducting research at ANL until the start of my graduate studies at the <a href="https://df.units.it/en" target="_blank">University of Trieste</a>, where I earned a Ph.D. in Physics in Spring 2019. In Fall 2019 I joined the newly-established Astronomy group at <a href="http://202.114.78.174/astro/index.php" target="_blank">Wuhan University</a>, where I'm presently stationed as a postdoc.
 </p>
 </div>
+
+P.S., when the lockdown was lifted but the University was still closed, the  East Lake stole my heart and became my temporary office:
+
+<iframe width="642" height="360" src="https://www.youtube.com/embed/7pq2eqHx-OY">
+</iframe>
