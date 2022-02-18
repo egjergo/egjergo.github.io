@@ -5,9 +5,9 @@ title: Eda Gjergo
 logo: 
 author: Eda Gjergo
 description: Astrophysics Postdoc
-email: <a href="mailto:eda.gjergo@gmail.com"> Contact me</a>
-github: <a href="https://github.com/egjergo"> Visit my Github</a>
-publications: <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">My publication list on ADS</a>
+email: <a href="mailto:eda.gjergo@gmail.com" target="_blank"> Contact me</a>
+github: <a href="https://github.com/egjergo" target="_blank"> Visit my Github</a>
+publications: <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">My publication list on ADS</a>
 copyright: Copyright &copy; 2022 by Eda Gjergo
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Eda Gjergo <br> Astrophysics Postdoc
+  hero-title: Hi! I’m <br> Eda Gjergo <br> Astrophysics <br> Postdoc
 
 social:
 - {icon: "ti-github", link: "https://github.com/egjergo"}

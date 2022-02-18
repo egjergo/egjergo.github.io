@@ -5,6 +5,7 @@ author: Eda Gjergo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
+<!--<a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">My CV</a>-->
 
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
