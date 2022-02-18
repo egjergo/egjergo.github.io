@@ -8,6 +8,9 @@ date: 2021-09-06
 ## Postdoc work (Wuhan, China)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<font size="1">  Image credit: Abell 370. X-ray: NASA/CXC/Penn State Univ./G. Garmire; Optical: NASA/STScI</font>
 
 ### GalCEM
+
+Work in preparation.
+
+We have developed a highly flexible and efficient galactic chemical evolution (GCE) code, suited in particular for nuclear physicists who wish to test modeling assumptions of stellar nucleosynthesis yields on a variety of galactic morphologies. At present, the code accepts contributions by massive stars (core collapse SNe), low-to-intermediate mass stars (AGBs), SNIa, neutron star mergers, collapsars, and magneto-hydrodynamic supernova jets.

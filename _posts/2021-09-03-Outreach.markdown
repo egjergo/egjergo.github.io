@@ -32,4 +32,4 @@ Here is a selection of videos from my Youtube channel <a href="https://www.youtu
 
 I have been involved in a series of outreach activities with local schools both in the Chicago area and in Italy. Notably, the 2013 University of Chicago Summer Science Program at the Yerkes Observatory:
 
-<iframe src="https://prezi.com/embed/1ytyie0rvdtb/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="420" width="747"></iframe>105 187
+<iframe src="https://prezi.com/embed/1ytyie0rvdtb/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="420" width="747"></iframe>
