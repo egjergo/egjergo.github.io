@@ -5,7 +5,17 @@ author: Eda Gjergo
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
-<h3><a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">My CV</a></h3>
+<div>
+    <div>
+        <h3><a href="{{site.url}}/assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a></h3>
+    </div>
+    <div>
+        <h3><a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a></h3>
+    </div>
+    <div>
+        <h3><a href="{{site.url}}/_pages/gallery.html">Photo Gallery</a></h3>
+    </div>
+</div>
 
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
