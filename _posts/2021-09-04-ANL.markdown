@@ -20,7 +20,7 @@ date: 2021-09-04
        1. [Chambliss Medal](#chambliss)
 
 ## <a name="ANLweb"></a>
-<a rel="nofollow" target="_blank" href="https://www.hep.anl.gov/egjergo/"> <i class="fa fa-link" aria-hidden="true"></i>You can access my ANL page at the following link <i class="fa fa-link" aria-hidden="true"></i></a> 
+<h4>You can access my ANL page at the following  <a rel="nofollow" target="_blank" href="https://www.hep.anl.gov/egjergo/"> <i class="fa fa-link" aria-hidden="true"></i>link <i class="fa fa-link" aria-hidden="true"></i></a></h4>
 
 From Fall 2011 to Summer 2015 I conducted research in the Supernova Cosmology Group within the HEP division at Argonne National Laboratory (Chicago, IL) with <a rel='nofollow' target='_blank' href='mailto:stk@anl.gov'>Steve Kuhlmann</a>. 
 
@@ -52,19 +52,20 @@ Tested a possible time-dependence of Dark Energy when described by the CPL param
 Collaborated in the improvement of an analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope. <a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract'> Publication on MNRAS</a>
 
 ### Uncertainties in Core Collapse Supernovae Simulations <a name="duggan"></a>
+<a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22125317D/abstract'>ADS Poster entry</a>. 
 
 ### Cosmology Biases in the Analysis of Future Supernova Surveys <a name="stanwyck"></a>
+<a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22211801S/abstract'>ADS Poster entry</a>. 
 
 ### Alternatives to Vacuum Energy constrained with supernova Type Ia data sets <a name="AAS222"></a>
-<a target='_blank' rel='nofollow' href='https://www.hep.anl.gov/egjergo/Presentations/Gjergo_Eda_AAS_Jun13_poster.pdf'>Investigated alternatives to Vacuum Energy as possible causes for the observed accelerated expansion of the Universe in recent epochs. At the 222nd AAS Meeting, I was awarded with the Chambliss Medal for this project</a>. 
+Investigated alternatives to Vacuum Energy as possible causes for the observed accelerated expansion of the Universe in recent epochs. At the 222nd AAS Meeting, I was awarded with the Chambliss Medal for this project<a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22211802G/abstract'>ADS Poster entry</a>. 
 
 ### Impact on Supernova Cosmology of filter transmission for LSST <a name="AAS223"></a>
-<a target='_blank' rel='nofollow' href="https://ui.adsabs.harvard.edu/abs/2014AAS...22325439G/abstract">Initiated a preliminary study of the six optical ugrizy4 filters for the Large Synoptic Survey Telescope (LSST, now renamed Vera Rubin Observatory's Legacy Survey of Space and Time), and their impact on supernova science. I was awarded with an Honorable Mention for the Chambliss Award at AAS the following year</a>.
+Initiated a preliminary study of the six optical ugrizy4 filters for the Large Synoptic Survey Telescope (LSST, now renamed Vera Rubin Observatory's Legacy Survey of Space and Time), and their impact on supernova science. I was awarded with an Honorable Mention for the Chambliss Award at AAS the following year. <a target='_blank' rel='nofollow' href="https://ui.adsabs.harvard.edu/abs/2014AAS...22325439G/abstract">ADS Poster entry</a>.
 
 #### Chambliss Medal <a name="chambliss"></a>
 
-In June 2013 during the 222nd AAS Meeting, I was awarded with the AAS Chambliss Medal, the most prestigious research award for undergraduate astronomy students in the U.S. 
-<img src="/assets/images/about/ChamblissMedal.JPG" alt="Chambliss Medal" title="Chambliss Medal" width="550" align="center" />
-The medal was awarded due to our work in the use of supernova mock data to explore alternatives to Vacuum Energy as the source for the accelerated expansion of the late Universe.
-
+In June 2013 during the 222nd AAS Meeting, I was awarded with the AAS Chambliss Medal -- the most prestigious research award for undergraduate astronomy students in North America -- due to our work in the use of supernova mock data to explore alternatives to Vacuum Energy as the source for the accelerated expansion of the late Universe.
 The following year, I received an honorable mention at the same contest (for the 223rd AAS Meeting) for our filter study for LSST.
+
+<img src="/assets/images/about/ChamblissMedal.JPG" alt="Chambliss Medal" title="Chambliss Medal" width="550" align="center" />
