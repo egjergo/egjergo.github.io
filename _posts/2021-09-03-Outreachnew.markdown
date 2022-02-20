@@ -3,23 +3,23 @@ title:  "Outreach"
 author: "Eda Gjergo"
 image: /assets/images/blog/post-4.jpg
 date: 2021-09-03
-<meta charset="utf-8">
-<link rel='stylesheet' type="text/css" href='{{site.url}}assets/scss/templates/_style.css'>
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ---
-<!--<html>
-    <head>
-    </head>
-</html>-->
-
-
-### Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools 
+### Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools
 <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
 
 In high school, I wrote an outreach book in physics with Margherita Hack. The book debuted as an Italian top-ten best-seller upon its release in 2007. In the non-fiction category, it scored second place, right after the Pope.
 
 <img src="/assets/images/about/HackGjergoClassifica.png" alt="classifica" title="classifica" width="1000" align="center" />
+
+<html>
+    <head>
+    <meta charset="utf-8">
+    <link rel='stylesheet' type="text/css" href='{{site.url}}assets/scss/templates/_style.css'>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+</html>
+
 
 
 <p>Here is a selection of videos from my Youtube channel <a href="https://www.youtube.com/user/TheCosmicWeb/" target="_blank">The Cosmic Web</a> where I posted 10 videos between 2012 and 2014.</p>
