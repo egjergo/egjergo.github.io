@@ -7,11 +7,10 @@ signature: assets/images/about/signature.png
 ---
 <div>
     <div>
-        <p><a href="{{site.url}}/assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a><!--</p>
-    </div>
-    <div>-->
-        <br>
-        <a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a></p>
+        <p><a href="{{site.url}}assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a>
+        |
+        <a href="{{site.url}}assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a>
+        </p>
     </div>
     <!--<div>
         <h3><a href="{{site.url}}_pages/gallery.html">Photo Gallery</a></h3>
