@@ -14,14 +14,15 @@ date: 2021-09-03
 </html>
 
 
-### Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools
+<h3>Non-fiction best-selling author, YouTube, in-person outreach in Chicago-area and Italian High Schools</h3>
 <!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-->
 
-In high school, I wrote an outreach book in physics with Margherita Hack. The book debuted as an Italian top-ten best-seller upon its release in 2007. In the non-fiction category, it scored second place, right after the Pope.
+<p>In high school, I wrote an outreach book in physics with Margherita Hack. The book debuted as an Italian top-ten best-seller upon its release in 2007. In the non-fiction category, it scored second place, right after the Pope.</p>
 
 <img src="/assets/images/about/HackGjergoClassifica.png" alt="classifica" title="classifica" width="1000" align="center" />
 
-Here is a selection of videos from my Youtube channel <a href="https://www.youtube.com/user/TheCosmicWeb/" target="_blank">The Cosmic Web</a> where I posted 10 videos between 2012 and 2014.
+
+<p>Here is a selection of videos from my Youtube channel <a href="https://www.youtube.com/user/TheCosmicWeb/" target="_blank">The Cosmic Web</a> where I posted 10 videos between 2012 and 2014.</p>
 
 <div class="main-carousel">
   <div class="cell"><iframe src="https://www.youtube.com/embed/9ee_2n4FuqQ"></iframe></div>
@@ -44,6 +45,6 @@ Here is a selection of videos from my Youtube channel <a href="https://www.youtu
 
 
 
-I have been involved in a series of outreach activities with local schools both in the Chicago area and in Italy. Notably, the 2013 University of Chicago Summer Science Program at the Yerkes Observatory:
+<p>I have been involved in a series of outreach activities with local schools both in the Chicago area and in Italy. Notably, the 2013 University of Chicago Summer Science Program at the Yerkes Observatory:</p>
 
 <iframe src="https://prezi.com/embed/1ytyie0rvdtb/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="420" width="747"></iframe>
