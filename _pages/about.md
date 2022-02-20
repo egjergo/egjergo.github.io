@@ -25,7 +25,7 @@ signature: assets/images/about/signature.png
     </p>
 </div>
 
-
+This short clip comes from a January 2006 interview.
 <iframe width="642" height="360" src="https://www.youtube.com/embed/-zF_Ar82kb8">
 </iframe>
 
