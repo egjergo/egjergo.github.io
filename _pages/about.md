@@ -7,14 +7,15 @@ signature: assets/images/about/signature.png
 ---
 <div>
     <div>
-        <h3><a href="{{site.url}}/assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a></h3>
+        <p><a href="{{site.url}}/assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a><!--</p>
     </div>
-    <div>
-        <h3><a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a></h3>
+    <div>-->
+        <br>
+        <a href="{{site.url}}/assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a></p>
     </div>
-    <div>
+    <!--<div>
         <h3><a href="{{site.url}}/_pages/gallery.html">Photo Gallery</a></h3>
-    </div>
+    </div>-->
 </div>
 
 <div>
@@ -36,7 +37,9 @@ I obtained my high school diploma in the selective (3.5% acceptance rate) <a hre
 </p>
 </div>
 
+<!-- 
 P.S., when the lockdown was lifted but the University was still closed, the  East Lake stole my heart and became my temporary office:
 
 <iframe width="642" height="360" src="https://www.youtube.com/embed/7pq2eqHx-OY">
 </iframe>
+-->
