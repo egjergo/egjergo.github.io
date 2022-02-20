@@ -27,17 +27,24 @@ From Fall 2011 to Summer 2015 I conducted research in the Supernova Cosmology Gr
 
 ## Introduction to Supernova Cosmology <a name="intro"></a>
 
-The use of Type Ia supernovae has lead two teams -- the Supernova Cosmology Project and the High-z Supernova Search Team -- to the independent discovery of the accelerated expansion of the Universe. The discovery was later acknowledged with the 2011 Nobel Prize in Physics, awarded to Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess.
 
-The attached milestone plot from the Supernova Cosmology Project (a spectroscopically-identified sample of Type Ia SNe, collected and analyzed between the 1990s and the early 2000s) 
 
-<img src="/assets/images/blog/stretch_hamuy.gif" alt="stretch factor" title="stretch factor" width="550" align="center" />
+<div>
+    <p style="float: right;"><img src="/assets/images/blog/stretch_hamuy.gif" alt="stretch factor" title="stretch factor" width="550" align="center" /></p>
+    <p align="justify">The use of Type Ia supernovae has lead two teams -- the Supernova Cosmology Project and the High-z Supernova Search Team -- to the independent discovery of the accelerated expansion of the Universe. The discovery was later acknowledged with the 2011 Nobel Prize in Physics, awarded to Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess.
+    <br>
+    The milestone plot on the right is from the Supernova Cosmology Project (a study on a spectroscopically-identified sample of Type Ia SNe, collected and analyzed between the 1990s and the early 2000s) 
+    <br>
+    Not all Type Ia SNe are standard candles in the sense that they all have the same absolute magnitude (y-axis), there is some dispersion (top plot).
+    But fortunately, supernovae with lower absolute magnitude grow dimmer faster than the ones with a higher absolute magnitude.
+    Type Ia SNe are standardizable in the sense that, when “stretched" to an absolute magnitude of -19.5, their light curves tend to align to roughly the same shape (bottom plot). This corrected magnitude is the “cosmic light bulb”.
+    <br>
+    A clear explanation of the computation of the stretch factor can be found in section 5.4 (page 10) of the Supernova Legacy Survey [ADS link](https://ui.adsabs.harvard.edu/abs/2006A%26A...447...31A/abstract)
+    </p>
+</div>
 
-Not all Type Ia SNe are standard candles in the sense that they all have the same absolute magnitude (y-axis), there is some dispersion (top plot).
-But fortunately, supernovae with lower absolute magnitude grow dimmer faster than the ones with a higher absolute magnitude.
-Type Ia SNe are standardizable in the sense that, when “stretched" to an absolute magnitude of -19.5, their light curves tend to align to roughly the same shape (bottom plot). This corrected magnitude is the “cosmic light bulb”.
 
-A clear explanation of the computation of the stretch factor can be found in section 5.4 (page 10) of the Supernova Legacy Survey [ADS link](https://ui.adsabs.harvard.edu/abs/2006A%26A...447...31A/abstract)
+
 
 
 ## My projects <a name="projects"></a>
