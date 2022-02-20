@@ -30,8 +30,11 @@ From Fall 2011 to Summer 2015 I conducted research in the Supernova Cosmology Gr
 
 
 <div>
-    <p style="float: right;"><img src="/assets/images/blog/stretch_hamuy.gif" alt="stretch factor" title="stretch factor" width="450" align="top" /></p>
-    <p align="justify">The use of Type Ia supernovae has lead two teams -- the Supernova Cosmology Project and the High-z Supernova Search Team -- to the independent discovery of the accelerated expansion of the Universe. The discovery was later acknowledged with the 2011 Nobel Prize in Physics, awarded to Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess.
+    <p style="float: right;">
+    <img src="/assets/images/blog/stretch_hamuy.gif" alt="stretch factor" title="stretch factor" width="450" align="top" />
+    </p>
+    <p align="justify"><br>
+    The use of Type Ia supernovae has lead two teams -- the Supernova Cosmology Project and the High-z Supernova Search Team -- to the independent discovery of the accelerated expansion of the Universe. The discovery was later acknowledged with the 2011 Nobel Prize in Physics, awarded to Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess.
     <br>
     The milestone plot on the right is from the Supernova Cosmology Project (a study on a spectroscopically-identified sample of Type Ia SNe, collected and analyzed between the 1990s and the early 2000s) 
     <br>
@@ -46,6 +49,7 @@ From Fall 2011 to Summer 2015 I conducted research in the Supernova Cosmology Gr
 A clear explanation of the computation of the stretch factor can be found in section 5.4 (page 10) of the Supernova Legacy Survey [ADS link](https://ui.adsabs.harvard.edu/abs/2006A%26A...447...31A/abstract)
 
 <br>
+<div></div>
 
 ## My projects <a name="projects"></a>
 
@@ -65,7 +69,7 @@ Collaborated in the improvement of an analytic photometric redshift estimator fo
 <a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22211801S/abstract'>ADS Poster entry</a>. 
 
 ### Alternatives to Vacuum Energy constrained with supernova Type Ia data sets <a name="AAS222"></a>
-Investigated alternatives to Vacuum Energy as possible causes for the observed accelerated expansion of the Universe in recent epochs. At the 222nd AAS Meeting, I was awarded with the Chambliss Medal for this project<a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22211802G/abstract'>ADS Poster entry</a>. 
+Investigated alternatives to Vacuum Energy as possible causes for the observed accelerated expansion of the Universe in recent epochs. At the 222nd AAS Meeting, I was awarded with the Chambliss Medal for this project. <a target='_blank' rel='nofollow' href='https://ui.adsabs.harvard.edu/abs/2013AAS...22211802G/abstract'>ADS Poster entry</a>. 
 
 ### Impact on Supernova Cosmology of filter transmission for LSST <a name="AAS223"></a>
 Initiated a preliminary study of the six optical ugrizy4 filters for the Large Synoptic Survey Telescope (LSST, now renamed Vera Rubin Observatory's Legacy Survey of Space and Time), and their impact on supernova science. I was awarded with an Honorable Mention for the Chambliss Award at AAS the following year. <a target='_blank' rel='nofollow' href="https://ui.adsabs.harvard.edu/abs/2014AAS...22325439G/abstract">ADS Poster entry</a>.
