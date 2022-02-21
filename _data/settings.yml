@@ -11,10 +11,10 @@ publications: <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo
 copyright: Copyright &copy; 2022 by Eda Gjergo
 
 menu:
-- {name: About, link: '/about'}
 - {name: Experience, link: '/experience'}
 - {name: Publications, link: '/publications'}
 #- {name: Portfolio, link: '/portfolio'}
+- {name: About, link: '/about'}
 - {name: Contact, link: '/contact'}
 
 
