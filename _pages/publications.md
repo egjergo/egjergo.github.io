@@ -35,7 +35,7 @@ ___
 
 ___
 
-**Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey ** 
+**Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey** 
 >   * Gjergo Eda, Duggan Jefferson, Cunningham John, Kuhlmann Stephen, Biswas Rahul, Kovacs Eve, Bernstein Joseph, Spinka Harold. 
 >   * Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.
 >   * [Astroparticle Physics, 2013, Volume 42, p. 52-61.](https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract)
