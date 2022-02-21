@@ -7,8 +7,8 @@ For an up-to-date list of publications, please visit [my ADS search results](htt
 ___
 
 *The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
-    * Foster C., et al., The MAGPI Collaboration
-    * Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031
+  * Foster C., et al., The MAGPI Collaboration
+  * Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031
 
 ___
 
@@ -33,10 +33,10 @@ ___
 
 ___
 
-**Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey ** 
- * Gjergo Eda, Duggan Jefferson, Cunningham John, Kuhlmann Stephen, Biswas Rahul, Kovacs Eve, Bernstein Joseph, Spinka Harold. 
- * Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.
- * Astroparticle Physics, 2013, Volume 42, p. 52-61.
+> **Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey ** 
+   * Gjergo Eda, Duggan Jefferson, Cunningham John, Kuhlmann Stephen, Biswas Rahul, Kovacs Eve, Bernstein Joseph, Spinka Harold. 
+   * Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.
+   * Astroparticle Physics, 2013, Volume 42, p. 52-61.
 
 ___
 
