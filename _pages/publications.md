@@ -24,7 +24,7 @@ ___
 
 **Dust Evolution in Galaxy Cluster Simulations**
  * Gjergo Eda, Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
-  * Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
+ * Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
  *  Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.
 
 ___
