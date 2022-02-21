@@ -3,9 +3,6 @@ layout: page2
 title: Publications
 ---
 
-<section class="section bg-light">
-    <div class="container">
-
 For an up-to-date list of publications, please visit [my ADS search results](https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 ___
 
@@ -42,10 +39,6 @@ ___
  * Astroparticle Physics, 2013, Volume 42, p. 52-61.
 
 ___
-
-
-</div>
-</section>
 
 
 <!-- clients
