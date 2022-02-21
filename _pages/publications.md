@@ -5,10 +5,11 @@ title: Publications
 
 <section class="section bg-light">
     <div class="container">
+
 For an up-to-date list of publications, please visit [my ADS search results](https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 ___
 
-The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021). 
+*The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
     * Foster C., et al., The MAGPI Collaboration
     * Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031
 
@@ -28,7 +29,7 @@ ___
 
 ___
 
-Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope. 
+*Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope.*
  * Wang Yun, Gjergo Eda, Kuhlmann Stephen
  * Argonne National Laboratory, California Institute of Technology, University of Oklahoma.
  * Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.
