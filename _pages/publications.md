@@ -6,6 +6,29 @@ title: Publications
 For an up-to-date list of publications, please visit [my ADS search results](https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 
+#### In preparation
+___
+
+*Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
+> * Liang Jinning, Gjergo Eda, et al. 2022
+> To be submitted
+
+___
+
+**GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
+> * Gjergo Eda, et al. 2022
+> In prep.
+
+___
+
+**GalCEM I: an open-source galactic chemical evolution code -- simulating all isotopes from H to Zn**
+> * Gjergo Eda, et al. 2022
+> In prep.
+
+___
+
+
+#### Accepted
 ___
 
 *The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
