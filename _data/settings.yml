@@ -116,7 +116,7 @@ experience:
 - {name: Best-selling co-author, icon: 'icon-0.png', date: '2007', organization: 'Sperling & Kupfer | Gruppo Mondadori (Milan, Italy)'}
 - {name: Junior Research Assistant, icon: 'icon-1.png', date: '2011 - 2015', organization: 'Argonne National Laboratory (Chicago, IL, USA)'}
 - {name: Research Assistant, icon: 'icon-2.png', date: '2015 - 2019', organization: 'Osservatorio Astronomico INAF (Trieste, Italy)'}
-- {name: Postdoctoral Scholar, icon: 'icon-3.png', date: '2019 - Present', organization: 'Wuhan University (Wuhan, China)'}
+- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2019 - Present', organization: 'Wuhan University (Wuhan, China)'}
 
 
 #-------------------------------

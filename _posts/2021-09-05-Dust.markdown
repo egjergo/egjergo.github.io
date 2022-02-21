@@ -8,6 +8,6 @@ date: 2021-09-05
 ## Graduate work (Trieste, Italy)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
- <font size="1">  Image credit:  The Carina Nebula NGC 3372 -- NASA, ESA, Hubble Heritage Team (STScI/AURA)</font>
 
 ### Thesis title: Dust Evolution in Galaxy Cluster Simulations
+
