@@ -17,6 +17,11 @@ signature: assets/images/about/signature.png
     </div>-->
 </div>
 
+<h5>Goal</h5>
+Strive for things that last. Maximize my contribution to people and society, minimize my burden to them.
+
+
+<h5>Bio</h5>
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
     <p align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.
