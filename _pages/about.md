@@ -17,8 +17,8 @@ signature: assets/images/about/signature.png
     </div>-->
 </div>
 
-<h5>Goal</h5>
-Strive for things that last. Maximize my contribution to people and society, minimize my burden to them.
+<!--<h5>Goal</h5>
+Strive for things that last. Maximize my contribution to people and society, minimize my burden to them.-->
 
 
 <h5>Bio</h5>
