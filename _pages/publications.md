@@ -5,6 +5,7 @@ title: Publications
 
 For an up-to-date list of publications, please visit [my ADS search results](https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
+
 ___
 
 *The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
