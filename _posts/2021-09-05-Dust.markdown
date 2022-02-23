@@ -32,6 +32,6 @@ The early attitudes of XX century astronomers to dust were primarily of annoyanc
 Now the importance of dust is well appreciated. the spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
 
 
-##<a id='projects'></a>
+## <a id='projects'></a>
 ### <a id="intro"></a> Dust evolution in Galaxy Cluster Simulations
 
