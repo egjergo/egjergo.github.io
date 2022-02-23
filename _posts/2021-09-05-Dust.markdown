@@ -11,15 +11,18 @@ date: 2021-09-05
 
 ### Thesis title: Dust Evolution in Galaxy Cluster Simulations
 
+<!--  
+    1. [What is dust and how it is observed](#intro-basics)
+    2. [Dust cycle](#intro-cycle)
+    3. [Effects on the spectral energy distribution of galaxies](#intro-SED)
+    4. [grain-grain and gas-grain interactions, size distribution](#intro-modeling) 
+   -->
 1. [Introduction to Dust](#intro)
-<!--  1. [What is dust and how it is observed](#intro-basics)
-   2. [Dust cycle](#intro-cycle)
-   3. [Effects on the spectral energy distribution of galaxies](#intro-SED)
-   4. [grain-grain and gas-grain interactions, size distribution](#intro-modeling)-->
 2. [My projects](#projects)
     1. [Dust Evolution in Galaxy Cluster Simulations](#paper)
     2. [Where does cluster dust originate at low-to-intermediate redshifts?](#2ndpaper)
-<!--    3. [IRX-beta](#irxbeta)-->
+<!--    
+    3. [IRX-beta](#irxbeta)-->
 
 ## <a id="intro"></a> Introduction to Astrophysical Dust
 
@@ -33,5 +36,7 @@ Now the importance of dust is well appreciated. the spectral energy distribution
 
 
 ## <a id='projects'></a>
-### <a id="intro"></a> Dust evolution in Galaxy Cluster Simulations
+### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations
+
+### <a id="2ndpaper"></a> Where does cluster dust originate at low-to-intermediate redshifts?
 
