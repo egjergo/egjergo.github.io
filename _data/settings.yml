@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Eda Gjergo <br> Astrophysics <br> Postdoc
+  hero-title: Hi! <br> Welcome <br> to my webpage <br>
 
 social:
 - {icon: "ti-github", link: "https://github.com/egjergo"}
