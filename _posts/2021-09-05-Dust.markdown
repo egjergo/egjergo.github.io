@@ -35,10 +35,9 @@ date: 2021-09-05
     <div style="float:left; width:55%;">
         <p align="justify">
         Astrophysical dust refers to solid particles floating in the interstellar medium (ISM). These solid particles are small, they range in size from 1 nanometer to roughly 1 micrometer, analogous to the size of smoke and pollution. They constitute by mass roughtly 1% of the ISM, and 50% of all the metals (in the astronomical sense, where metals are all elements other than H and He). To first order, dust is mostly composed by silicates or carbonaceous molecules.
-        <br/>
         The early attitudes of XX century astronomers to dust were primarily of annoyance, because dust is opaque to UV/optical radiation and hence obscures background objects, so it was a hindrance to observations. Dust scatters and absorbs radiation at wavelengths from 0.1 to 20 µm, but then emits this energy back in the form of thermal IR/sub-mm radiation. 
         <br/>
-        Now the importance of dust is well appreciated. the spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
+        Now the importance of dust has come to the forefront of many astrophysical branches. The spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
         <br/>
         </p>
     </div>
@@ -56,8 +55,6 @@ date: 2021-09-05
 ### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
 
 This is a brief summary of my paper which appeared on the [MNRAS Journal](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract){:target="_blank"}.
-
-
 During my Ph.D., I included a dust evolution model [(Hirashita, 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract){:target="_blank"} into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback. We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \times 10^8 M_{\odot}$$, $$\sim 2\times 10^6$$ gas particles) massive galaxy clusters by $$z = 0$$, two of $$\simeq 5 \times 10^{14} M_{\odot}$$ and two of $$\simeq 10^{15} M_{\odot}$$.
 
 The two-size model provides a significant advantage, in that it can approximate a continuous grain size distribution. From an extensive dust evolution study [(Asano et al., 2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..637A/abstract){:target="_blank"} it emerged that grain-grain and grain-gas interaction processes are most efficient on two sizes, 0.1 and 0.01 $$\mu$$m. This causes the grain size distribution to also peak in this bimodal distribution, hence by tracking only two sizes, it is possible to recontruct the continuous distribution.
