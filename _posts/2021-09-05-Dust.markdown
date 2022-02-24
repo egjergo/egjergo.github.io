@@ -54,6 +54,8 @@ date: 2021-09-05
 ## <a id='projects'></a>
 ### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
 
+<img src="/assets/docs/dust/gadgetrun13.png" alt="gadgetviewer" title="gadgetviewer" width="850px" align="center"/>
+
 This is a brief summary of my paper which appeared on the [MNRAS Journal](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract){:target="_blank"}.
 During my Ph.D., I included a dust evolution model [(Hirashita, 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract){:target="_blank"} into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback. We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \times 10^8 M_{\odot}$$, $$\sim 2\times 10^6$$ gas particles) massive galaxy clusters by $$z = 0$$, two of $$\simeq 5 \times 10^{14} M_{\odot}$$ and two of $$\simeq 10^{15} M_{\odot}$$.
 
@@ -63,7 +65,25 @@ The two-size model provides a significant advantage, in that it can approximate 
 
 This two-grain-size model is included in the subgrid physics of gas particles. Of the metals synthesized in star particles and spread to neighboring gas particles, a fraction is stored as gas-phase metals and another fraction is added to the large grain component (owing to the fact that dust has a characteristic size of 0.1-1 $$\mu$$m in the production sites). Shattering in the warm gas phase transfers dust mass onto the small grain component. When the gas particle enters a cold phase, accretion addensates gas-phase metals onto small dust grains. Simultaneously, coagulation rapidly transfers small dust into large dust. The destruction processes of sputtering and  SN feedback. Star formation proportionally depletes gas-phase metals, small dust and large dust.
 
+<img src="/assets/docs/dust/sputtering.png" alt="sputtering" title="sputtering" width="850px" align="center"/>
 
 
-### <a id="2ndpaper"></a> Where does cluster dust originate at low-to-intermediate redshifts?
+<img src="/assets/docs/dust/singlepartisol.jpg" alt="spi" title="spi" width="550px" align="center"/>
+<img src="/assets/docs/dust/singlepartwspu.jpg" alt="sps" title="sps" width="550px" align="center"/>
 
+<img src="/assets/docs/dust/fidcleanorig.jpg" alt="fidcleanorig" title="fidcleanorig" width="850px" align="center"/>
+
+<img src="/assets/docs/dust/fidcleancool.jpg" alt="fidcleancool" title="fidcleancool" width="850px" align="center"/>
+
+<img src="/assets/docs/dust/coolprofile41.jpg" alt="cp41" title="cp41" width="850px" align="center"/>
+
+<img src="/assets/docs/dust/coolprofile41.jpg" alt="cp41" title="cp41" width="850px" align="center"/>
+
+<img src="/assets/docs/dust/coolprofile91.jpg" alt="cp91" title="cp91" width="850px" align="center"/>
+
+### <a id="2ndpaper"></a> Where does low-to-intermediate redshift galaxy cluster dust originate?
+This is a brief summary of my paper which appeared on the [MNRAS Journal](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract){:target="_blank"}. 
+
+<img src="/assets/docs/dust/alldustclustimeevolnfwz.jpg" alt="PlanckSchechter" title="PlanckSchechter" width="850px" align="center"/>
+
+<img src="/assets/docs/dust/allvariations.jpg" alt="allvariations" title="allvariations" width="850px" align="center"/>
