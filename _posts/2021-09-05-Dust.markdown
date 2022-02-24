@@ -40,7 +40,7 @@ Now the importance of dust is well appreciated. the spectral energy distribution
 
 During my Ph.D., I included a dust evolution model [(Hirashita, 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract) into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback.
 
-We used 4 initial conditions that generate 4 low-resolution ($M_{gas}=1.53 \times 10^8 M_{\odot}$, $\sim 2\times 10^6$ gas particles) massive galaxy clusters by $$z = 0$$, two of $\simeq 5 \times 10^{14} M_{\odot}$ and two of $\simeq 10^{15} M_{\odot}$.
+We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \times 10^8 M_{\odot}$$, $$\sim 2\times 10^6$$ gas particles) massive galaxy clusters by $$z = 0$$, two of $$\simeq 5 \times 10^{14} M_{\odot}$$ and two of $$\simeq 10^{15} M_{\odot}$$.
 
 ### <a id="2ndpaper"></a> Where does cluster dust originate at low-to-intermediate redshifts?
 
