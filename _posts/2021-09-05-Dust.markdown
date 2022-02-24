@@ -42,7 +42,7 @@ date: 2021-09-05
         <br/>
         </p>
     </div>
-    <div style="float:right; width:30%;">
+    <div style="float:center; width:30%;">
         <img src="/assets/docs/dust/carina.png" width="100%">
         <br/>
         Carina Nebula (through HST/WFC3) in UV/optical (top) and IR (bottom) wavebands.  The composite image was made from filters that isolate emission from iron, magnesium, oxygen, hydrogen,and sulfur. [© NASA, ESA, and the Hubble SM4 ERO Team
