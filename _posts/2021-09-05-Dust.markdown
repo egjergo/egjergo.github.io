@@ -9,9 +9,9 @@ date: 2021-09-05
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 
+<!-- 
 ### Thesis title: Dust Evolution in Galaxy Cluster Simulations
-
-<!--  
+ 
     1. [What is dust and how it is observed](#intro-basics)
     2. [Dust cycle](#intro-cycle)
     3. [Effects on the spectral energy distribution of galaxies](#intro-SED)
@@ -21,6 +21,7 @@ date: 2021-09-05
 2. [My projects](#projects)
     1. [Dust Evolution in Galaxy Cluster Simulations](#paper)
     2. [Where does cluster dust originate at low-to-intermediate redshifts?](#2ndpaper)
+
 <!--    
     3. [IRX-beta](#irxbeta)-->
 
@@ -47,6 +48,8 @@ The two-size model provides a significant advantage, in that it can approximate 
 ![dustmodel](../../assets/docs/dust/dprocl.png)
 
 This two-grain-size model is included in the subgrid physics of gas particles. Of the metals that a gas particle receives from spread functions within star particles, a fraction is stored as gas-phase metals and another fraction is added to the large grain component (owing to the fact that dust has a characteristic size of 0.1-1 $$\mu$$m in the production sites). Shattering in the warm gas phase transfers dust mass onto the small grain component. When the gas particle enters a cold phase, accretion addensates gas-phase metals onto small dust grains. Simultaneously, coagulation rapidly transfers small dust into large dust. The destruction processes of sputtering and  SN feedback. Star formation proportionally depletes gas-phase metals, small dust and large dust.
+
+
 
 ### <a id="2ndpaper"></a> Where does cluster dust originate at low-to-intermediate redshifts?
 
