@@ -73,8 +73,8 @@ This two-grain-size model is included in the subgrid physics of gas particles. O
 
 <br/>
 
-<img src="/assets/docs/dust/fidcleanorig.png" style="float: left; width: 45%;"/>
-<img src="/assets/docs/dust/fidcleancool.png" style="float: right; width: 45%;"/>
+<img src="/assets/docs/dust/fidcleanorig.png" style="width: 45%;"/>
+<img src="/assets/docs/dust/fidcleancool.png" style="width: 45%;"/>
 
 <br/>
 
