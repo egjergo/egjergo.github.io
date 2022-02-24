@@ -71,9 +71,9 @@ This two-grain-size model is included in the subgrid physics of gas particles. O
 <img src="/assets/docs/dust/singlepartisol.jpg" alt="spi" title="spi" width="550px" align="center"/>
 <img src="/assets/docs/dust/singlepartwspu.jpg" alt="sps" title="sps" width="550px" align="center"/>
 
-<img src="/assets/docs/dust/fidcleanorig.jpg" alt="fidcleanorig" title="fidcleanorig" width="850px" align="center"/>
+<img src="/assets/docs/dust/fidcleanorig.png" alt="fidcleanorig" title="fidcleanorig" width="850px" align="center"/>
 
-<img src="/assets/docs/dust/fidcleancool.jpg" alt="fidcleancool" title="fidcleancool" width="850px" align="center"/>
+<img src="/assets/docs/dust/fidcleancool.png" alt="fidcleancool" title="fidcleancool" width="850px" align="center"/>
 
 <img src="/assets/docs/dust/coolprofile41.jpg" alt="cp41" title="cp41" width="850px" align="center"/>
 
@@ -84,6 +84,6 @@ This two-grain-size model is included in the subgrid physics of gas particles. O
 ### <a id="2ndpaper"></a> Where does low-to-intermediate redshift galaxy cluster dust originate?
 This is a brief summary of my paper which appeared on the [MNRAS Journal](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract){:target="_blank"}. 
 
-<img src="/assets/docs/dust/alldustclustimeevolnfwz.jpg" alt="PlanckSchechter" title="PlanckSchechter" width="850px" align="center"/>
+<img src="/assets/docs/dust/alldustclustimeevolnfwz.jpg" alt="PlanckSchechter" title="PlanckSchechter" width="550px" align="center"/>
 
 <img src="/assets/docs/dust/allvariations.jpg" alt="allvariations" title="allvariations" width="850px" align="center"/>
