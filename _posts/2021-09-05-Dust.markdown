@@ -48,6 +48,7 @@ date: 2021-09-05
     </div>
 </div>
 
+<img src='assets/docs/dust/DustCycle.pdf' width="800px" border="15px">
 
 ## <a id='projects'></a>
 ### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
