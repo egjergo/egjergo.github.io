@@ -64,7 +64,7 @@ The two-size model provides a significant advantage, in that it can approximate 
 
 <img src="/assets/docs/dust/dprocl.png" alt="diagram" title="diagram" width="850px" align="center"/>
 
-This two-grain-size model is included in the subgrid physics of gas particles. Of the metals that a gas particle receives from spread functions within star particles, a fraction is stored as gas-phase metals and another fraction is added to the large grain component (owing to the fact that dust has a characteristic size of 0.1-1 $$\mu$$m in the production sites). Shattering in the warm gas phase transfers dust mass onto the small grain component. When the gas particle enters a cold phase, accretion addensates gas-phase metals onto small dust grains. Simultaneously, coagulation rapidly transfers small dust into large dust. The destruction processes of sputtering and  SN feedback. Star formation proportionally depletes gas-phase metals, small dust and large dust.
+This two-grain-size model is included in the subgrid physics of gas particles. Of the metals synthesized in star particles and spread to neighboring gas particles, a fraction is stored as gas-phase metals and another fraction is added to the large grain component (owing to the fact that dust has a characteristic size of 0.1-1 $$\mu$$m in the production sites). Shattering in the warm gas phase transfers dust mass onto the small grain component. When the gas particle enters a cold phase, accretion addensates gas-phase metals onto small dust grains. Simultaneously, coagulation rapidly transfers small dust into large dust. The destruction processes of sputtering and  SN feedback. Star formation proportionally depletes gas-phase metals, small dust and large dust.
 
 
 
