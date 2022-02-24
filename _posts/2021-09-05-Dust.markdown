@@ -50,7 +50,7 @@ date: 2021-09-05
     </div>
 </div>
 
-<iframe src="/assets/docs/dust/DustCycle.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<img src="/assets/docs/dust/DustCycle.jpg" alt="cycle" title="cycle" width="85%" align="center"/>
 
 ## <a id='projects'></a>
 ### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
@@ -61,7 +61,7 @@ We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \tim
 
 The two-size model provides a significant advantage, in that it can approximate a continuous grain size distribution. From an extensive dust evolution study [(Asano et al., 2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..637A/abstract) it emerged that grain-grain and grain-gas interaction processes are most efficient on two sizes, 0.1 and 0.01 $$\mu$$m. This causes the grain size distribution to also peak in this bimodal distribution, hence by tracking only two sizes, it is possible to recontruct the continuous distribution.
 
-![dustmodel](/assets/docs/dust/dprocl.png)
+<img src="/assets/docs/dust/dprocl.png" alt="diagram" title="diagram" width="85%" align="center"/>
 
 This two-grain-size model is included in the subgrid physics of gas particles. Of the metals that a gas particle receives from spread functions within star particles, a fraction is stored as gas-phase metals and another fraction is added to the large grain component (owing to the fact that dust has a characteristic size of 0.1-1 $$\mu$$m in the production sites). Shattering in the warm gas phase transfers dust mass onto the small grain component. When the gas particle enters a cold phase, accretion addensates gas-phase metals onto small dust grains. Simultaneously, coagulation rapidly transfers small dust into large dust. The destruction processes of sputtering and  SN feedback. Star formation proportionally depletes gas-phase metals, small dust and large dust.
 
