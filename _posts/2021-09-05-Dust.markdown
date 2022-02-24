@@ -29,16 +29,26 @@ date: 2021-09-05
 
 <!--In the introduction to the first chapter of his textbook *Physics of the Interstellar and Intergalactic Medium*, Bruce T. Draine calls the gas and dust between the stars *"the most beautiful component of galaxies"*. And a couple of years into my PhD, I've come to fully appreciate how right is this statement.-->
 
-Astrophysical dust refers to solid particles floating in the interstellar medium (ISM). These solid particles are small, they range in size from 1 nanometer to roughly 1 micrometer, analogous to the size of smoke and pollution. They constitute by mass roughtly 1% of the ISM, and 50% of all the metals (in the astronomical sense, where metals are all elements other than H and He). To first order, dust is mostly composed by silicates or carbonaceous molecules.
+Carina Nebula (through HST/WFC3) in UV/optical (top) and IR (bottom) wavebands.  The composite image was made from filters that isolate emission from iron, magnesium, oxygen, hydrogen,and sulfur. [© NASA, ESA, and the Hubble SM4 ERO Team
+<div>
+    <div>
+    <p style="float: right;"><img src="/assets/docs/dust/carina.png" width="350px" border="15px"></p>
+    <p></p>
+    </div>
+    <p align="justify">
+    Astrophysical dust refers to solid particles floating in the interstellar medium (ISM). These solid particles are small, they range in size from 1 nanometer to roughly 1 micrometer, analogous to the size of smoke and pollution. They constitute by mass roughtly 1% of the ISM, and 50% of all the metals (in the astronomical sense, where metals are all elements other than H and He). To first order, dust is mostly composed by silicates or carbonaceous molecules.
+    <br>
+    The early attitudes of XX century astronomers to dust were primarily of annoyance, because dust is opaque to UV/optical radiation and hence obscures background objects, so it was a hindrance to observations. Dust scatters and absorbs radiation at wavelengths from 0.1 to 20 $$\mu$$m, but then emits this energy back in the form of thermal IR/sub-mm radiation. 
+    <br>
+    Now the importance of dust is well appreciated. the spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
+    </p>
+</div>
 
-The early attitudes of XX century astronomers to dust were primarily of annoyance, because dust is opaque to UV/optical radiation and hence obscures background objects, so it was a hindrance to observations. Dust scatters and absorbs radiation at wavelengths from 0.1 to 20 $$\mu$$m, but then emits this energy back in the form of thermal IR/sub-mm radiation. 
 
-Now the importance of dust is well appreciated. the spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
-
+## <a id='projects'></a>
+### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
 
 <div>
-    <p style="float: right;"><img src="/assets/docs/dust/carina.png" width="350px" border="15px"><br>
-    Carina Nebula (through HST/WFC3) in UV/optical (top) and IR (bottom) wavebands.  The composite image was made from filters that isolate emission from iron, magnesium, oxygen, hydrogen,and sulfur. [© NASA, ESA, and the Hubble SM4 ERO Team</p>
     <p align="justify">
     During my Ph.D., I included a two-size dust evolution model 
     <a target='_blank' href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract">(Hirashita, 2015)</a> into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback. The paper appeared on the <a target='_blank' href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">MNRAS Journal</a>.
@@ -49,12 +59,6 @@ Now the importance of dust is well appreciated. the spectral energy distribution
     <a target='_blank' href="https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..637A/abstract">(Asano et al., 2013)</a>, it emerged that grain-grain and grain-gas interaction processes are most efficient on two sizes, 0.1 and 0.01 $$\mu$$m. This causes the grain size distribution to also peak in this bimodal distribution, hence by tracking only two sizes, it is possible to recontruct the continuous distribution.
     </p>
 </div>
-
-
-## <a id='projects'></a>
-### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
-
-
 
 
 
