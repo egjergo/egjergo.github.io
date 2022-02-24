@@ -35,16 +35,18 @@ date: 2021-09-05
     <div style="float:left; width:55%;">
         <p align="justify">
         Astrophysical dust refers to solid particles floating in the interstellar medium (ISM). These solid particles are small, they range in size from 1 nanometer to roughly 1 micrometer, analogous to the size of smoke and pollution. They constitute by mass roughtly 1% of the ISM, and 50% of all the metals (in the astronomical sense, where metals are all elements other than H and He). To first order, dust is mostly composed by silicates or carbonaceous molecules.
-        <br>
+        <br/>
         The early attitudes of XX century astronomers to dust were primarily of annoyance, because dust is opaque to UV/optical radiation and hence obscures background objects, so it was a hindrance to observations. Dust scatters and absorbs radiation at wavelengths from 0.1 to 20 $\mu$m, but then emits this energy back in the form of thermal IR/sub-mm radiation. 
-        <br>
+        <br/>
         Now the importance of dust is well appreciated. the spectral energy distribution (SED) of objects including galaxies cannot be understood without accounting for dust, and in turn the presence of dust is strongly correlated to galactic morphology. On top of affecting the observation of objects, dust is an agent in the evolution of galactic properties.  Dust depletes the ISM of important refractory elements that speed up gas cooling, but then its surface catalyzes the formation of molecular hydrogen, arguably the most important and most abundant gas coolant. 
+        <br/>
         </p>
     </div>
     <div style="float:right; width:30%;">
         <img src="/assets/docs/dust/carina.png" width="100%">
-        <br>
+        <br/>
         Carina Nebula (through HST/WFC3) in UV/optical (top) and IR (bottom) wavebands.  The composite image was made from filters that isolate emission from iron, magnesium, oxygen, hydrogen,and sulfur. [© NASA, ESA, and the Hubble SM4 ERO Team
+        <br/>
     </div>
 </div>
 
