@@ -55,11 +55,12 @@ date: 2021-09-05
 ## <a id='projects'></a>
 ### <a id="paper"></a> Dust evolution in Galaxy Cluster Simulations 
 
-During my Ph.D., I included a dust evolution model [(Hirashita, 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract) into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback.
+This is a brief summary of my paper which appeared on the [MNRAS Journal](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract){:target="_blank"}.
 
-We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \times 10^8 M_{\odot}$$, $$\sim 2\times 10^6$$ gas particles) massive galaxy clusters by $$z = 0$$, two of $$\simeq 5 \times 10^{14} M_{\odot}$$ and two of $$\simeq 10^{15} M_{\odot}$$.
 
-The two-size model provides a significant advantage, in that it can approximate a continuous grain size distribution. From an extensive dust evolution study [(Asano et al., 2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..637A/abstract) it emerged that grain-grain and grain-gas interaction processes are most efficient on two sizes, 0.1 and 0.01 $$\mu$$m. This causes the grain size distribution to also peak in this bimodal distribution, hence by tracking only two sizes, it is possible to recontruct the continuous distribution.
+During my Ph.D., I included a dust evolution model [(Hirashita, 2015)](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447.2937H/abstract){:target="_blank"} into a custom Gadget-3 cosmological simulation developed at the INAF Observatory of Trieste. As subgrid physics, the simulation includes radiative cooling, star formation and stellar feedback, chemical evolution, and AGN feedback. We used 4 initial conditions that generate 4 low-resolution ($$M_{gas}=1.53 \times 10^8 M_{\odot}$$, $$\sim 2\times 10^6$$ gas particles) massive galaxy clusters by $$z = 0$$, two of $$\simeq 5 \times 10^{14} M_{\odot}$$ and two of $$\simeq 10^{15} M_{\odot}$$.
+
+The two-size model provides a significant advantage, in that it can approximate a continuous grain size distribution. From an extensive dust evolution study [(Asano et al., 2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.432..637A/abstract){:target="_blank"} it emerged that grain-grain and grain-gas interaction processes are most efficient on two sizes, 0.1 and 0.01 $$\mu$$m. This causes the grain size distribution to also peak in this bimodal distribution, hence by tracking only two sizes, it is possible to recontruct the continuous distribution.
 
 <img src="/assets/docs/dust/dprocl.png" alt="diagram" title="diagram" width="850px" align="center"/>
 
