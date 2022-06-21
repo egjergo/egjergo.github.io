@@ -7,11 +7,6 @@ For an up-to-date list of publications, please visit [my ADS search results](htt
 
 
 #### In preparation
-___
-
-*Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
-> * Liang Jinning, Gjergo Eda, et al. 2022
-> To be submitted
 
 ___
 
@@ -24,6 +19,17 @@ ___
 **GalCEM I: an open-source galactic chemical evolution code -- simulating all isotopes from H to Zn**
 > * Gjergo Eda, et al. 2022
 > In prep.
+
+___
+
+
+#### Submitted
+
+___
+
+*Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
+> * Liang Jinning, Gjergo Eda, et al. 2022
+> To be submitted
 
 ___
 
