@@ -53,9 +53,9 @@ social:
 
 # About Section
 blurb:
-  I'm an astrophysics postdoc at Wuhan University (China).
-  Prior to this, I earned a Physics Ph.D. in Trieste (Italy), 
-  two B.S. in Applied Mathematics and Physics at IIT (Chicago, IL, USA).
+  I'm an astrophysics postdoc at Nanjing University (China).
+  Prior to this, I was a postdoc at Whuhan University, I earned a Physics Ph.D. in Trieste (Italy), 
+  two B.S. in Applied Mathematics and Physics at IIT (Chicago, IL, USA), and I conducted research at Argonne National Lab.
   
 
   I have worked on galactic chemical evolution, dust modeling, 
@@ -117,7 +117,8 @@ experience:
 - {name: Best-selling co-author, icon: 'icon-0.png', date: '2007', organization: 'Sperling & Kupfer | Gruppo Mondadori (Milan, Italy)'}
 - {name: Junior Research Assistant, icon: 'icon-1.png', date: '2011 - 2015', organization: 'Argonne National Laboratory (Chicago, IL, USA)'}
 - {name: Research Assistant, icon: 'icon-2.png', date: '2015 - 2019', organization: 'Osservatorio Astronomico INAF (Trieste, Italy)'}
-- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2019 - Present', organization: 'Wuhan University (Wuhan, China)'}
+- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2019 - 2022', organization: 'Wuhan University (Wuhan, China)'}
+- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2022 - Present', organization: 'Nanjing University (Nanjing, China)'}
 
 
 #-------------------------------

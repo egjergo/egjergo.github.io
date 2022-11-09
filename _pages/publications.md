@@ -16,14 +16,13 @@ ___
 
 ___
 
+
+#### Submitted
+___
+
 **GalCEM I: an open-source galactic chemical evolution code -- simulating all isotopes from H to Zn**
 > * Gjergo Eda, et al. 2022
 > In prep.
-
-___
-
-
-#### Submitted
 
 ___
 
@@ -35,6 +34,11 @@ ___
 
 
 #### Accepted
+___
+*LAMOST meets Gaia: The Galactic Open Clusters*
+> * Fu Xiaoting, et al.,
+> * [accepted for publication on A&A](https://ui.adsabs.harvard.edu/abs/2022arXiv220709121F/abstract)
+
 ___
 
 *The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
