@@ -104,8 +104,8 @@ blurb-btn-name: Visit "About"
 
 skills-title: Current Research Intersts
 skills:
-- {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '90%'}
-- {name: Interstellar Medium, color: '#9473e6', value: '5%'}
+- {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '85%'}
+- {name: Interstellar Medium, color: '#9473e6', value: '10%'}
 - {name: Cosmological Simulations, color: '#bdecf6', value: '4%'}
 - {name: Supernova Cosmology, color: '#ffbcaa', value: '1%'}
 
