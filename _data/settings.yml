@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! <br> Welcome <br> to my webpage <br>
+  hero-title: Galactic Chemical Evolution <br> Dust and the Interstellar Medium <br> Cosmological Simulations <br>
 
 social:
 - {icon: "ti-github", link: "https://github.com/egjergo"}
@@ -54,8 +54,9 @@ social:
 # About Section
 blurb:
   I'm an astrophysics postdoc at Nanjing University (China).
-  Prior to this, I was a postdoc at Whuhan University, I earned a Physics Ph.D. in Trieste (Italy), 
-  two B.S. in Applied Mathematics and Physics at IIT (Chicago, IL, USA), and I conducted research at Argonne National Lab.
+  Prior to this, I was a postdoc at Wuhan University, I earned a Physics Ph.D. in Trieste (Italy), 
+  two B.S. in Applied Mathematics and Physics at Illinois Institute of Technology (Chicago, IL, USA),
+  and I conducted research at Argonne National Lab.
   
 
   I have worked on galactic chemical evolution, dust modeling, 

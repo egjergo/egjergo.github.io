@@ -12,32 +12,29 @@ ___
 
 **GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
 > * Gjergo Eda, et al. 2022
-> In prep.
 
 ___
 
 
 #### Submitted
-___
-
-**GalCEM I: an open-source galactic chemical evolution code -- simulating all isotopes from H to Zn**
-> * Gjergo Eda, et al. 2022
-> In prep.
-
-___
-
 *Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
 > * Liang Jinning, Gjergo Eda, et al. 2022
-> To be submitted
+> EG as corresponsing author
 
 ___
-
 
 #### Accepted
 ___
+
+**GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn**
+> * Gjergo Eda, Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka search by orcid
+> * [The Astrophysical Journal Supplement Series, 2023, Volume 264, Issue 2, id.44, 22 pp.](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract)
+
+___
+
 *LAMOST meets Gaia: The Galactic Open Clusters*
 > * Fu Xiaoting, et al.,
-> * [accepted for publication on A&A](https://ui.adsabs.harvard.edu/abs/2022arXiv220709121F/abstract)
+> * [Astronomy & Astrophysics, 2022, Volume 668, id.A4, 16 pp.](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A...4F/abstract)
 
 ___
 
