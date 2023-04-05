@@ -37,7 +37,13 @@ This short clip comes from a January 2006 interview.
 
 <div>
 <p  align="justify">
-I obtained my high school diploma in the selective (3.5% acceptance rate) <a href="https://www.uwcad.it/" target="_blank">United World College of the Adriatic</a>, and subsequently received scholarships that helped me attend the <a href="https://www.iit.edu/" target="_blank">Illinois Institute of Technology</a> in Chicago, IL, where I was a double major in Applied Mathematics and Physics. In 2011 I joined the Supernova Cosmology group in the HEP Division of <a href="https://www.anl.gov/hep" target="_blank">Argonne National Laboratory</a>. Our research efforts led me to win the Chambliss Medal for <a href="/2021/09/04/ANL/" target="_blank">exemplary research</a>. I continued conducting research at ANL until the start of my graduate studies at the <a href="https://df.units.it/en" target="_blank">University of Trieste</a>, where I earned a Ph.D. in Physics in Spring 2019. In Fall 2019 I joined the newly-established Astronomy group at <a href="http://202.114.78.174/astro/index.php" target="_blank">Wuhan University</a>. In 2022 I began my second postdoc at <a href='https://www.nju.edu.cn/EN/7f/73/c7136a163699/page.htm' target='_blank'>Nanjing University</a>.
+I obtained my high school diploma in the selective (3.5% acceptance rate) <a href="https://www.uwcad.it/" target="_blank">United World College of the Adriatic</a>, and subsequently received scholarships that helped me attend the <a href="https://www.iit.edu/" target="_blank">Illinois Institute of Technology</a> in Chicago, IL, where I was a double major in Applied Mathematics and Physics. In 2011 I joined the Supernova Cosmology group in the HEP Division of <a href="https://www.anl.gov/hep" target="_blank">Argonne National Laboratory</a>. Our research efforts led me to win the Chambliss Medal for <a href="/2021/09/04/ANL/" target="_blank">exemplary research</a>. 
+</p>
+</div>
+
+<div>
+<p  align="justify">
+I continued conducting research at ANL until the start of my graduate studies at the <a href="https://df.units.it/en" target="_blank">University of Trieste</a>, where I lead the development of a dust evolution code within zoom-in cosmological simulations of galaxy clusters. I earned a Ph.D. in Physics in Spring 2019. In Fall 2019 I joined the newly-established Astronomy group at <a href="http://202.114.78.174/astro/index.php" target="_blank">Wuhan University</a>. Here I designed and developed <a href="https://github.com/egjergo/GalCEM" target="_blank">GalCEM</a>, a detailed isotopic galactic chemical evolution code. In 2022 I began my second postdoc at <a href='https://www.nju.edu.cn/EN/7f/73/c7136a163699/page.htm' target='_blank'>Nanjing University</a>.
 </p>
 </div>
 
