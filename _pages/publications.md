@@ -38,7 +38,7 @@ ___
 *Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
 > * Liang Jinning, Gjergo Eda, Fan Xilong
 > * [Monthly Notices of the Royal Astronomical Society, 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230400208L/abstract)
-> EG as corresponsing author
+> * EG as corresponsing author
 
 ___
 
