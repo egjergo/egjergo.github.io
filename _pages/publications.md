@@ -89,7 +89,7 @@ str(quakes)
 
 <div>
 
-... and this is the second column (on the right)
+#### Proceedings and Conferences
 
 ```{r}
 str(chickwts)
