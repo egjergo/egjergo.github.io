@@ -205,28 +205,6 @@ class="underline"
   </div>
   <div class="rightcolumn">
   <h4>Proceedings & Conferences</h4>
-    <div class="card">
-      <h5>Title</h5>
-      <h6><a target="_blank" href="#">bib</a></h6>
-      <p>
-      <u>Gjergo Eda</u>, 
-      et al.
-      </p>
-      <p>
-      Affiliations
-      </p>
-    </div>
-    <!--<div class="card">
-      <h5>Title</h5>
-      <h6><a target="_blank" href="#">bib</a></h6>
-      <p>
-      <u>Gjergo Eda</u>, 
-      et al.
-      </p>
-      <p>
-      Affiliations
-      </p>
-    </div>-->
   </div>
 </div>
 
