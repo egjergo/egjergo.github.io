@@ -101,13 +101,28 @@ class="underline"
 
 </div>
 
+
 <div class="row">
   <div class="leftcolumn">
+      <div class="card">
+      <h5>Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
+      <p>
+      Wang Yun, 
+      <u>Gjergo Eda</u>, 
+      Kuhlmann Stephen
+      </p>
+      <p>
+      California Institute of Technology, 
+      Argonne National Laboratory, 
+      University of Oklahoma
+      </p>
+    </div>
     <div class="card">
       <h5>Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
-      <h6>Title description, Dec 7, 2017</h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
       <p>
-      Gjergo Eda, 
+      <u>Gjergo Eda</u>, 
       Duggan Jefferson, 
       Cunningham John, 
       Kuhlmann Stephen, 
@@ -121,7 +136,6 @@ class="underline"
       Illinois Institute of Technology, 
       Loyola University Chicago.
       </p>
-      <p><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></p>
     </div>
     <!--<div class="card">
       <h2>TITLE HEADING</h2>
@@ -134,25 +148,28 @@ class="underline"
 
   <div class="rightcolumn">
     <div class="card">
-      <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <h5>Title</h5>
+      <h6><a target="_blank" href="#">bib</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      et al.
+      </p>
+      <p>
+      Affiliations
+      </p>
     </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div>
-    </div>
-    <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div>
+    <!--<div class="card">
+      <h5>Title</h5>
+      <h6><a target="_blank" href="#">bib</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      et al.
+      </p>
+      <p>
+      Affiliations
+      </p>
+    </div>-->
   </div>
-</div>
-
-<div class="footer">
-  <h2>Footer</h2>
 </div>
 
 </body>
@@ -204,13 +221,3 @@ ___
 > * Gjergo Eda, Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
 > * Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
 > *  [Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract)
-
-*Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope.*
-> * Wang Yun, Gjergo Eda, Kuhlmann Stephen
-> * Argonne National Laboratory, California Institute of Technology, University of Oklahoma.
-> * [Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.](https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract)
-
-**Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey** 
->   * Gjergo Eda, Duggan Jefferson, Cunningham John, Kuhlmann Stephen, Biswas Rahul, Kovacs Eve, Bernstein Joseph, Spinka Harold. 
->   * Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.
->   * [Astroparticle Physics, 2013, Volume 42, p. 52-61.](https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract)
