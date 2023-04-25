@@ -79,11 +79,7 @@ ___
 
 <div>
 
-This is the first column (on the left)
-
-```{r}
-str(quakes)
-```
+#### Publications
 
 </div>
 
@@ -91,9 +87,7 @@ str(quakes)
 
 #### Proceedings and Conferences
 
-```{r}
-str(chickwts)
-```
+
 
 </div>
 
