@@ -206,7 +206,6 @@ class="underline"
       </p>
     </div>
   </div>
-
   <div class="rightcolumn">
   <h4>Proceedings & Conferences</h4>
     <div class="card">
