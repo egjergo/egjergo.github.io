@@ -188,14 +188,14 @@ class="underline"
       <h5>1. Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
       <p>
-      <u>Gjergo Eda</u>, 
-      Duggan Jefferson, 
-      Cunningham John, 
-      Kuhlmann Stephen, 
-      Biswas Rahul, 
-      Kovacs Eve, 
-      Bernstein Joseph, 
-      Spinka Harold.
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Duggan Jefferson, 
+      &#10023; Cunningham John, 
+      &#10023; Kuhlmann Stephen, 
+      &#10023; Biswas Rahul, 
+      &#10023; Kovacs Eve, 
+      &#10023; Bernstein Joseph, 
+      &#10023; Spinka Harold.
       </p>
       <p>
       Argonne National Laboratory, 
