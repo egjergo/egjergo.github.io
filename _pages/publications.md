@@ -77,11 +77,8 @@ body {
 </style>
 </head>
 <body>
-
 <div class="header">
-
 <p>For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">my ADS search results</a></p>
-
 <p>
 <a
 id="cy-effective-orcid-url"
@@ -98,8 +95,6 @@ class="underline"
 </a>
 </p>
 </div>
-
-
 <div class="row">
   <div class="leftcolumn">
   <h4>Published</h4>
