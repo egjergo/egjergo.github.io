@@ -230,16 +230,11 @@ class="underline"
 
 </body>
 </html>
-
 <!--#### In preparation-->
-
-<!--**GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
-> * Gjergo Eda, et al. 2023-->
-
+<!--**GalCEM II: Investigating the impact of enrichment channels on the chemical-->
+<!--evolution of all neutron-capture isotopes with GalCEM**-->
+<!--* Gjergo Eda, et al. 2023-->
 <!--- ___ #### Submitted --->
-
 <!--___-->
-
 <!--#### Accepted-->
-
 <!--___-->
