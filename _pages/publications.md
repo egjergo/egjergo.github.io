@@ -103,6 +103,54 @@ class="underline"
 <div class="row">
   <div class="leftcolumn">
   <h4>Published</h4>
+    <!--<div class="card">
+      <h5>Title</h5>
+      <h6><a target="_blank" href="#">bib</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      et al.
+      </p>
+      <p>
+      Affiliations
+      </p>
+    </div>-->
+    <div class="card">
+      <h5>8. Yield performance against local stellar abundances within a fixed NuPyCEE parametrization</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884</a></h6>
+      <p>
+      Liang Jinning, 
+      <u>Gjergo Eda (corresponding author)</u>, 
+      Fan Xilong
+      </p>
+      <p>
+      Wuhan University, Nanjing University
+      </p>
+    </div>
+    <div class="card">
+      <h5>7. GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract">The Astrophysical Journal Supplement Series, 2023, Volume 264, Issue 2, id.44, 22 pp.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
+      </p>
+      <p>
+      Nanjing University, Wuhan University, Illinois Institute of Technology, Cubic PV, Observatoire de la Côte d'Azur CNRS, Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN), Osservatorio Astronomico di Roma INAF, National Astronomical Observatory of Japan NAOJ, University of Tokyo, International Research Center for Big-Bang Cosmology and Element Genesis, Beihang University 
+      </p>
+    </div>
+    <div class="card">
+      <h5>6. LAMOST meets Gaia: The Galactic Open Clusters</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022A%26A...668A...4F/abstract">Astronomy & Astrophysics, 2022, Volume 668, id.A4, 16 pp.</a></h6>
+      <p>
+      Fu Xiaoting, et al.,
+      </p>
+    </div>
+    <div class="card">
+      <h5>5. The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021PASA...38...31F/abstract">Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031.</a></h6>
+      <p>
+      Foster C., et al., <u>The MAGPI Collaboration</u>
+      </p>
+    </div>
         <div class="card">
       <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
@@ -193,10 +241,10 @@ class="underline"
 
 ___
 
-#### In preparation
+<!--#### In preparation-->
 
-**GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
-> * Gjergo Eda, et al. 2023
+<!--**GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
+> * Gjergo Eda, et al. 2023-->
 
 <!--- ___ #### Submitted --->
 
@@ -205,23 +253,3 @@ ___
 <!--#### Accepted-->
 
 <!--___-->
-
-#### Published
-
-*Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
-> * Liang Jinning, Gjergo Eda, Fan Xilong
-> * [Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract)
-> * EG as corresponsing author
-
-**GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn**
-> * Gjergo Eda, Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
-> * [The Astrophysical Journal Supplement Series, 2023, Volume 264, Issue 2, id.44, 22 pp.](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract)
-
-*LAMOST meets Gaia: The Galactic Open Clusters*
-> * Fu Xiaoting, et al.,
-> * [Astronomy & Astrophysics, 2022, Volume 668, id.A4, 16 pp.](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A...4F/abstract)
-
-*The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
->  * Foster C., et al., The MAGPI Collaboration
->  * [Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031](https://ui.adsabs.harvard.edu/abs/2021PASA...38...31F/abstract)
-
