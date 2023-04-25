@@ -9,9 +9,9 @@
       {% for positions in site.data.settings.positions %}
       <div class="col-lg-4 col-md-3 text-center">
         <img src="{{ site.baseurl }}/assets/images/positions/{{ positions.icon }}" alt="{{ site.data.settings.positions-title }} icon">
-        <p class="mb-0">{{ positions.date }}</p>
+        <p class="mb-0 text-center">{{ positions.date }}</p>
         <h4>{{ positions.name }}</h4>
-        <h6 class="text-light">{{ positions.organization }}</h6>
+        <h6 class="text-light  text-center">{{ positions.organization }}</h6>
       </div>
       {% endfor %}
     </div>
