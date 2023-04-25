@@ -97,7 +97,9 @@ ___
       <!--<h2>In Preparation</h2>--> 
       <!--<h2>Submitted</h2>-->
       <!--<h2>Accepted</h2>-->
-      <h3>Published</h3>
+
+
+#### Published
 
 **GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn**
 > * Gjergo Eda, Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
@@ -132,8 +134,13 @@ ___
 >   * Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.
 >   * [Astroparticle Physics, 2013, Volume 42, p. 52-61.](https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract)   
   
+
   </div>
     <div style="display: inline-block;">
-        <h3>Proceedings and Conferences</h3>
+
+
+#### Published
+
+
     </div>
 </div>
