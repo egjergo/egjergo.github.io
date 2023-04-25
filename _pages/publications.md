@@ -3,7 +3,6 @@ layout: page3
 title: Publications
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,15 +13,14 @@ title: Publications
 
 /* Add a gray background color with some padding */
 body {
-  font-family: Arial;
-  padding: 20px;
+  padding: 0px;
   background: #f1f1f1;
 }
 
 /* Header/Blog Title */
 .header {
-  padding: 30px;
-  font-size: 40px;
+  padding: 3px;
+  font-size: 30px;
   text-align: center;
   background: white;
 }
@@ -31,14 +29,14 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 75%;
+  width: 50%;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 25%;
-  padding-left: 20px;
+  width: 50%;
+  padding-left: 10px;
 }
 
 /* Fake image */
@@ -71,7 +69,7 @@ body {
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
     padding: 0;
@@ -82,26 +80,43 @@ body {
 <body>
 
 <div class="header">
-  <h2>Blog Name</h2>
+
+For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">my ADS search results</a>
+
+<a
+id="cy-effective-orcid-url"
+class="underline"
+  href="https://orcid.org/0000-0002-7440-1080"
+  target="orcid.widget"
+  rel="me noopener noreferrer"
+  style="vertical-align: top">
+  <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  https://orcid.org/0000-0002-7440-1080
+</a>
+
 </div>
 
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <h5>Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
+      <h6>Title description, Dec 7, 2017</h6>
+      <p>Gjergo Eda, Duggan Jefferson, Cunningham John, Kuhlmann Stephen, Biswas Rahul, Kovacs Eve, Bernstein Joseph, Spinka Harold.</p>
+      <p>Argonne National Laboratory, Illinois Institute of Technology, Loyola University Chicago.</p>
+      <p><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></p>
     </div>
-    <div class="card">
+    <!--<div class="card">
       <h2>TITLE HEADING</h2>
       <h5>Title description, Sep 2, 2017</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Some text..</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>
+    </div>-->
   </div>
+
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
