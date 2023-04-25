@@ -35,7 +35,7 @@ body {
 .rightcolumn {
   float: left;
   width: 50%;
-  padding-left: 5px;
+  padding-left: 0px;
 }
 
 /* Fake image */
