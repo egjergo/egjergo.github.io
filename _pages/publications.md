@@ -98,14 +98,24 @@ class="underline"
   https://orcid.org/0000-0002-7440-1080
 </a>
 </p>
-
 </div>
+
 
 <div class="row">
   <div class="leftcolumn">
-  <h4>Publications</h4>
+  <h4>Published</h4>
+        <div class="card">
+      <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Matteucci Francesca, Palla Marco, Lacchin Elena, Biviano Andrea.
+      </p>
+      <p>
+      Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN).
+      </p>
       <div class="card">
-      <h5>Dust Evolution in Galaxy Cluster Simulations</h5>
+      <h5>3. Dust Evolution in Galaxy Cluster Simulations</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
       <p>
       <u>Gjergo Eda</u>, 
@@ -116,7 +126,7 @@ class="underline"
       </p>
     </div>
       <div class="card">
-      <h5>Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
+      <h5>2. Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
       <p>
       Wang Yun, 
@@ -130,7 +140,7 @@ class="underline"
       </p>
     </div>
     <div class="card">
-      <h5>Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
+      <h5>1. Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
       <p>
       <u>Gjergo Eda</u>, 
@@ -148,13 +158,6 @@ class="underline"
       Loyola University Chicago.
       </p>
     </div>
-    <!--<div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-    </div>-->
   </div>
 
   <div class="rightcolumn">
@@ -222,11 +225,4 @@ ___
 *The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework (2021).*
 >  * Foster C., et al., The MAGPI Collaboration
 >  * [Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031](https://ui.adsabs.harvard.edu/abs/2021PASA...38...31F/abstract)
-
-
-**On the Origin of the Galaxy Cluster Dust at low to intermediate redshift**
-> * Gjergo Eda, Matteucci Francesca, Palla Marco, Lacchin Elena, Biviano Andrea.
-> * Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN).
-> * [Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract)
-
 
