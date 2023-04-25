@@ -112,6 +112,17 @@ class="underline"
       </p>
     </div>-->
       <div class="card">
+      <h5>3. Dust Evolution in Galaxy Cluster Simulations</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
+      </p>
+      <p>
+      Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
+      </p>
+    </div>
+      <div class="card">
       <h5>2. Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
       <p>
