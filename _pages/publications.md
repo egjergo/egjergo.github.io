@@ -29,13 +29,14 @@ body {
 .leftcolumn {   
   float: left;
   width: 50%;
+  padding-right: 5px;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
   width: 50%;
-  padding-left: 0px;
+  padding-left: 5px;
 }
 
 /* Fake image */
@@ -100,10 +101,20 @@ class="underline"
 
 </div>
 
-
 <div class="row">
   <div class="leftcolumn">
   <h4>Publications</h4>
+      <div class="card">
+      <h5>Dust Evolution in Galaxy Cluster Simulations</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
+      </p>
+      <p>
+      Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
+      </p>
+    </div>
       <div class="card">
       <h5>Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
@@ -218,7 +229,4 @@ ___
 > * Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN).
 > * [Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract)
 
-**Dust Evolution in Galaxy Cluster Simulations**
-> * Gjergo Eda, Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
-> * Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
-> *  [Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract)
+
