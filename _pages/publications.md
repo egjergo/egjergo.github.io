@@ -92,14 +92,14 @@ ___
 
 
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
+<div class="row" style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div class="column" style="display: inline-block;">
       <!--<h2>In Preparation</h2>--> 
       <!--<h2>Submitted</h2>-->
       <!--<h2>Accepted</h2>-->
       <h4>Published</h4>
   </div>
-    <div style="display: inline-block;">
-        <h3>Proceedings and Conferences</h3>
+    <div class="column" style="display: inline-block;">
+        <h4>Proceedings and Conferences</h4>
     </div>
 </div>
