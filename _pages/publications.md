@@ -75,38 +75,26 @@ ___
 >   * [Astroparticle Physics, 2013, Volume 42, p. 52-61.](https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract)
 
 
+<div style="display: flex;">
 
-<!-- clients
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">My Clients</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
- -->
+<div>
 
-#### Two columns
+This is the first column (on the left)
 
-Below is a Div containing three child Divs side by side. The Div
-in the middle is empty, just to add more space between the left
-and right Divs.
+```{r}
+str(quakes)
+```
 
-:::::: {.cols data-latex=""}
+</div>
 
-::: {.col data-latex="{0.45\textwidth}"}
-#### Published
-:::
+<div>
 
-::: {.col data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div -->
-:::
+... and this is the second column (on the right)
 
-::: {.col data-latex="{0.45\textwidth}"}
-#### Proceedings and Conferences
-:::
-::::::
+```{r}
+str(chickwts)
+```
+
+</div>
+
+</div>
