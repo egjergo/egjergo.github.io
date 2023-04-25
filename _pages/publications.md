@@ -19,30 +19,27 @@ class="underline"
   https://orcid.org/0000-0002-7440-1080
 </a>
 
-
 ___
 
-
 #### In preparation
-
 
 **GalCEM II: Investigating the impact of enrichment channels on the chemical evolution of all neutron-capture isotopes with GalCEM**
 > * Gjergo Eda, et al. 2023
 
 <!--- ___ #### Submitted --->
 
-___
+<!--___-->
 
-#### Accepted
+<!--#### Accepted-->
+
+<!--___-->
+
+#### Published
 
 *Yield performance against local stellar abundances within a fixed NuPyCEE parametrization*
 > * Liang Jinning, Gjergo Eda, Fan Xilong
-> * [Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884](https://ui.adsabs.harvard.edu/abs/2023arXiv230400208L/abstract)
+> * [Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract)
 > * EG as corresponsing author
-
-___
-
-#### Published
 
 **GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn**
 > * Gjergo Eda, Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
@@ -100,9 +97,7 @@ ___
       <!--<h2>In Preparation</h2>--> 
       <!--<h2>Submitted</h2>-->
       <!--<h2>Accepted</h2>-->
-      <!--<h2>Published</h2>-->
-
-#### Published
+      <h3>Published</h3>
 
 **GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn**
 > * Gjergo Eda, Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
@@ -139,6 +134,6 @@ ___
   
   </div>
     <div style="display: inline-block;">
-        <h2>Proceedings and Conferences</h2>
+        <h3>Proceedings and Conferences</h3>
     </div>
 </div>
