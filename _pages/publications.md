@@ -111,6 +111,16 @@ class="underline"
       Affiliations
       </p>
     </div>-->
+    <div class="card">
+      <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Matteucci Francesca, Palla Marco, Lacchin Elena, Biviano Andrea.
+      </p>
+      <p>
+      Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN).
+      </p>
       <div class="card">
       <h5>3. Dust Evolution in Galaxy Cluster Simulations</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
