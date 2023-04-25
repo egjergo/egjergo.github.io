@@ -1,0 +1,21 @@
+{% if site.data.settings.positions %}
+<!-- positions -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">{{ site.data.settings.positions-title }}</h2>
+      </div>
+      {% for positions in site.data.settings.positions %}
+      <div class="col-lg-3 col-md-4 text-center">
+        <img src="{{ site.baseurl }}/assets/images/positions/{{ positions.icon }}" alt="{{ site.data.settings.positions-title }} icon">
+        <p class="mb-0">{{ positions.date }}</p>
+        <h4>{{ positions.name }}</h4>
+        <h6 class="text-light">{{ positions.organization }}</h6>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- ./positions -->
+{% endif %}
