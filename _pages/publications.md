@@ -201,6 +201,7 @@ class="underline"
       </p>
     </div>
   </div>
+  
   <div class="rightcolumn">
   <h4>Proceedings & Conferences</h4>
     <div class="card">
@@ -230,6 +231,7 @@ class="underline"
 
 </body>
 </html>
+
 <!--#### In preparation-->
 <!--**GalCEM II: Investigating the impact of enrichment channels on the chemical-->
 <!--evolution of all neutron-capture isotopes with GalCEM**-->
