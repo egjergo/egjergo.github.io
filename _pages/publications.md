@@ -111,6 +111,25 @@ class="underline"
       Affiliations
       </p>
     </div>-->
+    <div class="card">
+      <h5>1. Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
+      <p>
+      <u>Gjergo Eda</u>, 
+      Duggan Jefferson, 
+      Cunningham John, 
+      Kuhlmann Stephen, 
+      Biswas Rahul, 
+      Kovacs Eve, 
+      Bernstein Joseph, 
+      Spinka Harold.
+      </p>
+      <p>
+      Argonne National Laboratory, 
+      Illinois Institute of Technology, 
+      Loyola University Chicago.
+      </p>
+    </div>
   </div>
   <div class="rightcolumn">
   <h4>Proceedings & Conferences</h4>
