@@ -97,15 +97,9 @@ ___
       <!--<h2>In Preparation</h2>--> 
       <!--<h2>Submitted</h2>-->
       <!--<h2>Accepted</h2>-->
-      <h3>Published</h3>
-
-#### Published
-
+      <h4>Published</h4>
   </div>
     <div style="display: inline-block;">
-        <!--<h3>Proceedings and Conferences</h3>-->
-
-#### Proceedings and Conferences
-
+        <h3>Proceedings and Conferences</h3>
     </div>
 </div>
