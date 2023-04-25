@@ -3,11 +3,11 @@
 <section class="section">
   <div class="container">
     <div class="row justify-content-around">
-      <div class="col-lg-12 text-center">
+      <div class="col-lg-6 text-center">
         <h2 class="section-title">{{ site.data.settings.positions-title }}</h2>
       </div>
       {% for positions in site.data.settings.positions %}
-      <div class="col-lg-3 col-md-3 text-center">
+      <div class="col-lg-2 col-md-3 text-center">
         <img src="{{ site.baseurl }}/assets/images/positions/{{ positions.icon }}" alt="{{ site.data.settings.positions-title }} icon">
         <p class="mb-0">{{ positions.date }}</p>
         <h4>{{ positions.name }}</h4>
