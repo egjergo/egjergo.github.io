@@ -28,13 +28,13 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  width: 50%;
+  width: 100%;
 }
 
 /* Right column */
 .rightcolumn {
   float: left;
-  width: 50%;
+  width: 0%;
   padding-left: 0px;
 }
 
@@ -115,73 +115,82 @@ class="underline"
       <h5>8. Yield performance against local stellar abundances within a fixed NuPyCEE parametrization</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884</a></h6>
       <p>
-      Liang Jinning, 
-      <u>Gjergo Eda (corresponding author)</u>, 
-      Fan Xilong
+      &#10023; Liang Jinning, 
+      <u>&#10023; Gjergo Eda (corresponding author)</u>, 
+      &#10023; Fan Xilong
       </p>
       <p>
-      Wuhan University, Nanjing University
+      &#9881; Wuhan University, &#9881; Nanjing University
       </p>
     </div>
     <div class="card">
       <h5>7. GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract">The Astrophysical Journal Supplement Series, 2023, Volume 264, Issue 2, id.44, 22 pp.</a></h6>
       <p>
-      <u>Gjergo Eda</u>, 
-      Sorokin Aleksei G., Ruth Anthony, Spitoni Emanuele, Matteucci Francesca, Fan Xilong, Liang Jinning, Limongi Marco, Yamazaki Yuta, Kusakabe Motohiko, Kajino Toshitaka
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Sorokin Aleksei G., 
+      &#10023; Ruth Anthony, 
+      &#10023; Spitoni Emanuele, 
+      &#10023; Matteucci Francesca, 
+      &#10023; Fan Xilong, 
+      &#10023; Liang Jinning, 
+      &#10023; Limongi Marco, 
+      &#10023; Yamazaki Yuta, 
+      &#10023; Kusakabe Motohiko, 
+      &#10023; Kajino Toshitaka
       </p>
       <p>
-      Nanjing University, Wuhan University, Illinois Institute of Technology, Cubic PV, Observatoire de la Côte d'Azur CNRS, Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN), Osservatorio Astronomico di Roma INAF, National Astronomical Observatory of Japan NAOJ, University of Tokyo, International Research Center for Big-Bang Cosmology and Element Genesis, Beihang University 
+      &#9881; Nanjing University, &#9881; Wuhan University, &#9881; Illinois Institute of Technology, &#9881; Cubic PV, &#9881; Observatoire de la Côte d'Azur CNRS, &#9881; Osservatorio Astronomico di Trieste INAF, &#9881; Università degli Studi di Trieste, &#9881; Institute Nazionale di Fisica Nucleare (INFN), &#9881; Osservatorio Astronomico di Roma INAF, &#9881; National Astronomical Observatory of Japan NAOJ, &#9881; University of Tokyo, &#9881; International Research Center for Big-Bang Cosmology and Element Genesis, Beihang University 
       </p>
     </div>
     <div class="card">
       <h5>6. LAMOST meets Gaia: The Galactic Open Clusters</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2022A%26A...668A...4F/abstract">Astronomy & Astrophysics, 2022, Volume 668, id.A4, 16 pp.</a></h6>
       <p>
-      Fu Xiaoting, et al.,
+      &#10023; Fu Xiaoting, et al.,
       </p>
     </div>
     <div class="card">
       <h5>5. The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021PASA...38...31F/abstract">Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031.</a></h6>
       <p>
-      Foster C., et al., <u>The MAGPI Collaboration</u>
+      &#10023; Foster C., et al., <u>&#10023; The MAGPI Collaboration</u>
       </p>
     </div>
     <div class="card">
       <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
       <p>
-      <u>Gjergo Eda</u>, 
-      Matteucci Francesca, Palla Marco, Lacchin Elena, Biviano Andrea.
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Matteucci Francesca, &#10023; Palla Marco, &#10023; Lacchin Elena, &#10023; Biviano Andrea
       </p>
       <p>
-      Osservatorio Astronomico di Trieste INAF, Università degli Studi di Trieste, Institute Nazionale di Fisica Nucleare (INFN).
+      &#9881; Osservatorio Astronomico di Trieste INAF, &#9881; Università degli Studi di Trieste, &#9881; Institute Nazionale di Fisica Nucleare (INFN).
       </p>
     </div>
       <div class="card">
       <h5>3. Dust Evolution in Galaxy Cluster Simulations</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
       <p>
-      <u>Gjergo Eda</u>, 
-      Granato Gian Luigi, Murante Giuseppe, Ragone-Figueroa Cinthia, Tornatore Luca, Borgani Stefano. 
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Granato Gian Luigi, &#10023; Murante Giuseppe, &#10023; Ragone-Figueroa Cinthia, &#10023; Tornatore Luca, &#10023; Borgani Stefano. 
       </p>
       <p>
-      Osservatorio Astronomico di Trieste INAF, Universita di Trieste, Instituto de Astronomia Teorica y Experimental (IATE), Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), Observatorio Astronomico, Universidad Nacional de Cordoba.
+      &#9881; Osservatorio Astronomico di Trieste INAF, &#9881; Universita di Trieste, &#9881; Instituto de Astronomia Teorica y Experimental (IATE), &#9881; Consejo Nacional de Investigaciones Cientificas y Tecnicas de la Republica Argentina (CONICET), &#9881; Observatorio Astronomico, &#9881; Universidad Nacional de Cordoba.
       </p>
     </div>
       <div class="card">
       <h5>2. Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
       <p>
-      Wang Yun, 
-      <u>Gjergo Eda</u>, 
-      Kuhlmann Stephen
+      &#10023; Wang Yun, 
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Kuhlmann Stephen
       </p>
       <p>
-      California Institute of Technology, 
-      Argonne National Laboratory, 
-      University of Oklahoma
+      &#9881; California Institute of Technology, 
+      &#9881; Argonne National Laboratory, 
+      &#9881; University of Oklahoma
       </p>
     </div>
     <div class="card">
@@ -198,13 +207,13 @@ class="underline"
       &#10023; Spinka Harold.
       </p>
       <p>
-      Argonne National Laboratory, 
-      Illinois Institute of Technology, 
-      Loyola University Chicago.
+      &#9881; Argonne National Laboratory, 
+      &#9881; Illinois Institute of Technology, 
+      &#9881; Loyola University Chicago.
       </p>
     </div>
   </div>
-  <div class="rightcolumn">
+<!--  <div class="rightcolumn">
   <h4>Proceedings & Conferences</h4>
     <div class="card">
       <h5>Title</h5>
@@ -217,19 +226,8 @@ class="underline"
       Affiliations
       </p>
     </div>
-    <!--<div class="card">
-      <h5>Title</h5>
-      <h6><a target="_blank" href="#">bib</a></h6>
-      <p>
-      <u>Gjergo Eda</u>, 
-      et al.
-      </p>
-      <p>
-      Affiliations
-      </p>
-    </div>-->
   </div>
-</div>
+</div>-->
 
 </body>
 </html>
