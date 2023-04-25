@@ -111,6 +111,20 @@ class="underline"
       Affiliations
       </p>
     </div>-->
+      <div class="card">
+      <h5>2. Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
+      <p>
+      Wang Yun, 
+      <u>Gjergo Eda</u>, 
+      Kuhlmann Stephen
+      </p>
+      <p>
+      California Institute of Technology, 
+      Argonne National Laboratory, 
+      University of Oklahoma
+      </p>
+    </div>
     <div class="card">
       <h5>1. Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
