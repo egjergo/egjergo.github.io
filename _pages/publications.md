@@ -14,12 +14,11 @@ title: Publications
 /* Add a gray background color with some padding */
 body {
   padding: 0px;
-  background: #f1f1f1;
 }
 
 /* Header/Blog Title */
 .header {
-  padding: 3px;
+  padding: 0px;
   font-size: 30px;
   text-align: center;
   background: white;
@@ -36,7 +35,7 @@ body {
 .rightcolumn {
   float: left;
   width: 50%;
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 /* Fake image */
@@ -49,8 +48,8 @@ body {
 /* Add a card effect for articles */
 .card {
    background-color: white;
-   padding: 20px;
-   margin-top: 20px;
+   padding: 10px;
+   margin-top: 10px;
 }
 
 /* Clear floats after the columns */
@@ -62,10 +61,10 @@ body {
 
 /* Footer */
 .footer {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   background: #ddd;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
@@ -104,6 +103,7 @@ class="underline"
 
 <div class="row">
   <div class="leftcolumn">
+  <h4>Publications</h4>
       <div class="card">
       <h5>Analytic photometric redshift estimator for Type Ia supernovae from the Large Synoptic Survey Telescope</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
@@ -147,6 +147,7 @@ class="underline"
   </div>
 
   <div class="rightcolumn">
+  <h4>Proceedings & Conferences</h4>
     <div class="card">
       <h5>Title</h5>
       <h6><a target="_blank" href="#">bib</a></h6>
