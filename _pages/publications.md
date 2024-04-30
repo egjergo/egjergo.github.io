@@ -114,7 +114,7 @@ class="underline"
     <div class="card">
       <h5>11. First detection of CO isotopologues in a high-redshift main-sequence galaxy: evidence of a topheavy
 stellar initial mass function</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Accepted by ApJ</a></h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Accepted by ApJ, 2024</a></h6>
       <p>
       &#10023; Guo Ziyi, et al.,
       </p>
@@ -124,7 +124,7 @@ stellar initial mass function</h5>
     </div>
     <div class="card">
       <h5>10. &alpha;-enhanced astrochemistry: the carbon cycle in extreme galactic conditions</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Monthly Notices of the Royal Astronomical Society, Volume 527, Issue 3, pp.8886-8906</a></h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Monthly Notices of the Royal Astronomical Society, 2024, Volume 527, Issue 3, pp.8886-8906</a></h6>
       <p>
       &#10023; Bisbas Thomas G.,
       &#10023; Zhang Zhi-Yu,
@@ -153,7 +153,7 @@ stellar initial mass function</h5>
     </div>
     <div class="card">
       <h5>9. Correction to: An analytical description of the evolution of binary orbital-parameter distributions in N-body computations of star clusters</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5777K/abstract">Monthly Notices of the Royal Astronomical Society, Volume 526, Issue 4, pp.5777-5777</a></h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5777K/abstract">Monthly Notices of the Royal Astronomical Society, 2023, Volume 526, Issue 4, pp.5777-5777</a></h6>
       <p>
       &#10023; Kroupa Pavel, 
       &#10023; Wang Yuting, 
@@ -168,7 +168,7 @@ stellar initial mass function</h5>
     </div>
     <div class="card">
       <h5>8. Yield performance against local stellar abundances within a fixed NuPyCEE parametrization</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884</a></h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, 2023, Volume 522, Issue 1, pp.863-884</a></h6>
       <p>
       &#10023; Liang Jinning, 
       <u>&#10023; Gjergo Eda (corresponding author)</u>, 
