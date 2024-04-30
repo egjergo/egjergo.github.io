@@ -122,7 +122,7 @@ class="underline"
       </p>
     </div>
     <div class="card">
-      <h5>10. $\alpha$-enhanced astrochemistry: the carbon cycle in extreme galactic conditions</h5>
+      <h5>10. &alpha;-enhanced astrochemistry: the carbon cycle in extreme galactic conditions</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Monthly Notices of the Royal Astronomical Society, Volume 527, Issue 3, pp.8886-8906</a></h6>
       <p>
       &#10023; Bisbas Thomas G.,
