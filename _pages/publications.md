@@ -112,6 +112,60 @@ class="underline"
       </p>
     </div>-->
     <div class="card">
+      <h5>10. $\alpha$-enhanced astrochemistry: the carbon cycle in extreme galactic conditions</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Accepted by ApJ</a></h6>
+      <p>
+      &#10023; Guo Ziyi, et al.,
+      </p>
+      <p>
+      &#9881; Nanjing University
+      </p>
+    </div>
+    <div class="card">
+      <h5>10. $\alpha$-enhanced astrochemistry: the carbon cycle in extreme galactic conditions</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Monthly Notices of the Royal Astronomical Society, Volume 527, Issue 3, pp.8886-8906</a></h6>
+      <p>
+      &#10023; Bisbas Thomas G.,
+      &#10023; Zhang Zhi-Yu,
+      <u>&#10023; Gjergo Eda</u>,
+      &#10023; Zhao Ying-He,
+      &#10023; Luo Gan,
+      &#10023; Quan Donghui,
+      &#10023; Jiang Xue-Jian,
+      &#10023; Sun Yichen,
+      &#10023; Topkaras Theodoros,
+      &#10023; Li Di,
+      &#10023; Guo Ziyi
+      </p>
+      <p>
+      &#9881; Research Center for Intelligent Computing Platforms, Zhejiang Lab, Hangzhou, China
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; Yunnan Observatories, Chinese Academy of Sciences, Kunming, China
+      &#9881; Key Laboratory of Radio Astronomy and Technology, Chinese Academy of Sciences, Beijing, China
+      &#9881; Institut de Radioastronomie Millimetrique, Grenoble, France
+      &#9881; Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, China 
+      &#9881; Physikalisches Institut, University of Cologne, Cologne, Germany 
+      &#9881; CAS Key Laboratory of FAST, National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China 
+      &#9881; NAOC-UKZN Computational Astrophysics Centre, Durban, South Africa
+      </p>
+    </div>
+    <div class="card">
+      <h5>9. Correction to: An analytical description of the evolution of binary orbital-parameter distributions in N-body computations of star clusters</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5777K/abstract">Monthly Notices of the Royal Astronomical Society, Volume 526, Issue 4, pp.5777-5777</a></h6>
+      <p>
+      &#10023; Kroupa Pavel, 
+      &#10023; Wang Yuting, 
+      <u>&#10023; Gjergo Eda</u>
+      </p>
+      <p>
+      &#9881; University of Bonn,
+      &#9881; Charles University in Prague, 
+      &#9881; National Astronomical Observatories, Chinese Academy of Sciences (NAOC),
+      &#9881; Nanjing University
+      </p>
+    </div>
+    <div class="card">
       <h5>8. Yield performance against local stellar abundances within a fixed NuPyCEE parametrization</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, Volume 522, Issue 1, pp.863-884</a></h6>
       <p>
