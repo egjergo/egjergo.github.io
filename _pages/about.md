@@ -26,7 +26,7 @@ Strive for things that last. Maximize my contribution to people and society, min
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
     <p align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.
     <br><br>
-    We then migrated to Italy, where I had the privilege to assimilate its rich cultural heritage. My love for astrophysics began in kindergarten and has remained unchanged since. In middle school, I become close friends with Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I co-authored a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> during high school.
+    We then migrated to Italy, where I had the privilege of assimilating into its rich cultural heritage. My love for astrophysics began in kindergarten and has remained unchanged since. In middle school, I become close friends with Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I co-authored a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> during high school.
     </p>
 </div>
 
