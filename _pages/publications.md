@@ -99,27 +99,125 @@ class="underline"
 
 <div class="row">
   <div class="leftcolumn">
-  <h4>Published</h4>
+  <h4>Monographs and Proceedings</h4>
+   <div class="card">
+      <h5>The initial mass function of stars
+</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
+      <p>
+      &#10023; Kroupa Pavel,
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Jerabkova Tereza,
+      &#10023; Yan Zhiqiang
+      </p>
+      <p>
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; European Southern Observatory, Garching, Germany
+      </p>
+    </div>  
+    <div class="card">
+      <h5>The many tensions with dark-matter based models and implications on the nature of the Universe
+</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023eppg.confE.231K/abstract">Proceedings of Science, Corfu2022</a></h6>
+      <p>
+      &#10023; Kroupa Pavel,
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023;  Asencio Elena,
+      &#10023; Haslbauer Moritz,
+      &#10023; Pflamm-Altenburg Jan,
+      &#10023; Wittenburg Nils,
+      &#10023; Samaras Nick,
+      &#10023; Thies Ingo,
+      &#10023; Oehm Wolfgang
+      </p>
+      <p>
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      Astronomical Institute, Charles University, Praha, Czech Republic
+      School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education,
+Nanjing, China
+      </p>
+    </div>
+  <h4>Publications</h4>
     <!--<div class="card">
       <h5>Title</h5>
       <h6><a target="_blank" href="#">bib</a></h6>
       <p>
-      <u>Gjergo Eda</u>, 
+      <u>&#10023; Gjergo Eda</u>, 
       et al.
       </p>
       <p>
-      Affiliations
+      &#9881; Affiliations
       </p>
     </div>-->
+        <div class="card">
+      <h5>14. The MAGPI Survey -- the kinematic morphology-density relation (or lack thereof) and the Hubble sequence at  z∼0.3</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250216751F/abstract">Accepted for publication in PASA.</a></h6>
+      <p>
+      &#10023; Foster C., et al., <u>&#10023; The MAGPI Collaboration</u>
+      </p>
+    </div>
+    <div class="card">
+      <h5>13. The effect of the environment-dependent stellar initial mass function on the photometric properties of star-forming galaxies</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...689A.221H/abstract">Astronomy & Astrophysics, Volume 689, id.A221, 18 pp.</a></h6>
+      <p>
+      &#10023; Haslbauer Moritz,
+      &#10023; Yan Zhiqiang,
+      &#10023; Jerabkova Tereza,
+      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; Kroupa Pavel,
+      &#10023; Zonoozi, Akram Hasani
+      </p>
+      <p>
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; European Southern Observatory, Garching, Germany
+      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      &#9881; Department of Physics, Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan, Iran
+      </p>
+    </div>
+    <div class="card">
+      <h5>The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024ApJ...969...95Y/abstract">The Astrophysical Journal, Volume 969, Issue 2, id.95, 11 pp.</a></h6>
+      <p>
+      &#10023; Yan Zhiqiang,
+      &#10023; Li Jiadong,
+      &#10023; Kroupa Pavel,
+      &#10023; Jerabkova Tereza,
+      <u>&#10023; Gjergo Eda</u>,
+      &#10023; Zhang Zhi-Yu 
+      </p>
+      <p>
+      &#9881; Affiliations
+      </p>
+    </div>
     <div class="card">
       <h5>11. First detection of CO isotopologues in a high-redshift main-sequence galaxy: evidence of a topheavy
 stellar initial mass function</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">Accepted by ApJ, 2024</a></h6>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">The Astrophysical Journal, Volume 970, Issue 2, id.136, 11 pp.</a></h6>
       <p>
-      &#10023; Guo Ziyi, et al.,
+      &#10023; Guo Ziyi, 
+      &#10023; Zhang Zhi-Yu,
+      &#10023; Yan Zhiqiang,
+      <u>&#10023; Gjergo Eda</u>,
+      &#10023; Man Allison W. S.,
+      &#10023; Ivison R. J.,
+      &#10023; Fu Xiaoting,
+      &#10023; Shi Yong
       </p>
       <p>
-      &#9881; Nanjing University
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; Department of Physics and Astronomy, University of British Columbia, Canada
+      &#9881; European Southern Observatory, Garching, Germany
+      &#9881; Dublin Institute for Advanced Studies, Dublin, Ireland
+      &#9881; Centre of Excellence for All Sky Astrophysics in 3 Dimensions (ASTRO 3D), Australia
+      &#9881; Institute for Astronomy, University of Edinburgh, Edinburgh UK
+      &#9881; Purple Mountain Observatory, Chinese Academy of Sciences, Nanjing, China
       </p>
     </div>
     <div class="card">
