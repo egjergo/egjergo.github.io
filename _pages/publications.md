@@ -101,8 +101,7 @@ class="underline"
   <div class="leftcolumn">
   <h4>Monographs and Proceedings</h4>
    <div class="card">
-      <h5>The initial mass function of stars
-</h5>
+      <h5>2. The initial mass function of stars</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
       <p>
       &#10023; Kroupa Pavel,
@@ -119,7 +118,7 @@ class="underline"
       </p>
     </div>  
     <div class="card">
-      <h5>The many tensions with dark-matter based models and implications on the nature of the Universe
+      <h5>1. The many tensions with dark-matter based models and implications on the nature of the Universe
 </h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023eppg.confE.231K/abstract">Proceedings of Science, Corfu2022</a></h6>
       <p>
@@ -171,16 +170,15 @@ Nanjing, China
       <h5>16. Alien-Type-Ia supernovae from the Milky Way merger history and one possible candidate -- Kepler's supernova</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250503085H/abstract">Accepted for publication in ApJ</a></h6>
       <p>
-      &#10023; Scherer David,
-      &#10023; Pflamm-Altenburg Jan,
-      &#10023; Kroupa Pavel,
-      &#10023; <u>Gjergo Eda</u>
+      &#10023; He Wenlang,
+      &#10023; Ping Zhou,
+      &#10023; <u>Gjergo Eda (co-corresponding author)</u>,
+      &#10023; Fu Xiaoting
       </p>
       <p>
-      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
       &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
       &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
-      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      &#9881; Purple Mountain Observatory, Chinese Academy of Sciences, Nanjing, China
       </p>
     </div>
     <div class="card">
