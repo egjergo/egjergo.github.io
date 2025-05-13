@@ -106,7 +106,7 @@ class="underline"
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
       <p>
       &#10023; Kroupa Pavel,
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Jerabkova Tereza,
       &#10023; Yan Zhiqiang
       </p>
@@ -124,7 +124,7 @@ class="underline"
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023eppg.confE.231K/abstract">Proceedings of Science, Corfu2022</a></h6>
       <p>
       &#10023; Kroupa Pavel,
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023;  Asencio Elena,
       &#10023; Haslbauer Moritz,
       &#10023; Pflamm-Altenburg Jan,
@@ -146,18 +146,64 @@ Nanjing, China
       <h5>Title</h5>
       <h6><a target="_blank" href="#">bib</a></h6>
       <p>
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       et al.
       </p>
       <p>
       &#9881; Affiliations
       </p>
     </div>-->
+    <div class="card">
+      <h5>17. The Impact of Early Massive Galaxy Formation on the Cosmic Microwave Background</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250504687G/abstract">Nuclear Physics B, Volume 1017, August 2025, 116931</a></h6>
+      <p>
+      &#10023; <u>Gjergo Eda</u>, 
+      &#10023; Kroupa Pavel
+      </p>
+      <p>
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      </p>
+    </div>
+    <div class="card">
+      <h5>16. Alien-Type-Ia supernovae from the Milky Way merger history and one possible candidate -- Kepler's supernova</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250503085H/abstract">Accepted for publication in ApJ</a></h6>
+      <p>
+      &#10023; Scherer David,
+      &#10023; Pflamm-Altenburg Jan,
+      &#10023; Kroupa Pavel,
+      &#10023; <u>Gjergo Eda</u>
+      </p>
+      <p>
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      </p>
+    </div>
+    <div class="card">
+      <h5>15. The p-Laplacian as a Framework for Generalizing Newtonian Gravity and MoND</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250417002S/abstract">Accepted for publication in A&amp;A</a></h6>
+      <p>
+      &#10023; Scherer David,
+      &#10023; Pflamm-Altenburg Jan,
+      &#10023; Kroupa Pavel,
+      &#10023; <u>Gjergo Eda</u>
+      </p>
+      <p>
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik, Universität Bonn, Bonn, Germany
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Nanjing, China
+      &#9881; Astronomical Institute, Faculty of Mathematics and Physics, Charles University, Praha, Czech Republic
+      </p>
+    </div>
         <div class="card">
       <h5>14. The MAGPI Survey -- the kinematic morphology-density relation (or lack thereof) and the Hubble sequence at  z∼0.3</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250216751F/abstract">Accepted for publication in PASA.</a></h6>
       <p>
-      &#10023; Foster C., et al., <u>&#10023; The MAGPI Collaboration</u>
+      &#10023; Foster C., et al., &#10023; <u>The MAGPI Collaboration</u>
       </p>
     </div>
     <div class="card">
@@ -167,7 +213,7 @@ Nanjing, China
       &#10023; Haslbauer Moritz,
       &#10023; Yan Zhiqiang,
       &#10023; Jerabkova Tereza,
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Kroupa Pavel,
       &#10023; Zonoozi, Akram Hasani
       </p>
@@ -181,18 +227,23 @@ Nanjing, China
       </p>
     </div>
     <div class="card">
-      <h5>The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</h5>
+      <h5>12. The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024ApJ...969...95Y/abstract">The Astrophysical Journal, Volume 969, Issue 2, id.95, 11 pp.</a></h6>
       <p>
       &#10023; Yan Zhiqiang,
       &#10023; Li Jiadong,
       &#10023; Kroupa Pavel,
       &#10023; Jerabkova Tereza,
-      <u>&#10023; Gjergo Eda</u>,
+      &#10023; <u>Gjergo Eda</u>,
       &#10023; Zhang Zhi-Yu 
       </p>
       <p>
-      &#9881; Affiliations
+      &#9881; School of Astronomy and Space Science, Nanjing University, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education, Nanjing, China
+      &#9881; Max-Planck-Institut für Astronomie, Heidelberg, Germany
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik (HISKP), Universität Bonn, Bonn, Germany
+      &#9881; Charles University in Prague, Faculty of Mathematics and Physics, Astronomical Institute, Praha, Czech Republic
+      &#9881; European Southern Observatory, Garching, Germany
       </p>
     </div>
     <div class="card">
@@ -203,7 +254,7 @@ stellar initial mass function</h5>
       &#10023; Guo Ziyi, 
       &#10023; Zhang Zhi-Yu,
       &#10023; Yan Zhiqiang,
-      <u>&#10023; Gjergo Eda</u>,
+      &#10023; <u>Gjergo Eda</u>,
       &#10023; Man Allison W. S.,
       &#10023; Ivison R. J.,
       &#10023; Fu Xiaoting,
@@ -226,7 +277,7 @@ stellar initial mass function</h5>
       <p>
       &#10023; Bisbas Thomas G.,
       &#10023; Zhang Zhi-Yu,
-      <u>&#10023; Gjergo Eda</u>,
+      &#10023; <u>Gjergo Eda</u>,
       &#10023; Zhao Ying-He,
       &#10023; Luo Gan,
       &#10023; Quan Donghui,
@@ -255,7 +306,7 @@ stellar initial mass function</h5>
       <p>
       &#10023; Kroupa Pavel, 
       &#10023; Wang Yuting, 
-      <u>&#10023; Gjergo Eda</u>
+      &#10023; <u>Gjergo Eda</u>
       </p>
       <p>
       &#9881; University of Bonn,
@@ -269,7 +320,7 @@ stellar initial mass function</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, 2023, Volume 522, Issue 1, pp.863-884</a></h6>
       <p>
       &#10023; Liang Jinning, 
-      <u>&#10023; Gjergo Eda (corresponding author)</u>, 
+      &#10023; <u>Gjergo Eda (corresponding author)</u>, 
       &#10023; Fan Xilong
       </p>
       <p>
@@ -280,7 +331,7 @@ stellar initial mass function</h5>
       <h5>7. GalCEM. I. An Open-source Detailed Isotopic Chemical Evolution Code -- simulating all isotopes from H to Zn</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract">The Astrophysical Journal Supplement Series, 2023, Volume 264, Issue 2, id.44, 22 pp.</a></h6>
       <p>
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Sorokin Aleksei G., 
       &#10023; Ruth Anthony, 
       &#10023; Spitoni Emanuele, 
@@ -307,14 +358,14 @@ stellar initial mass function</h5>
       <h5>5. The MAGPI Survey -- science goals, design, observing strategy, early results and theoretical framework</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2021PASA...38...31F/abstract">Publications of the Astronomical Society of Australia, 2021, Volume 38, article id. e031.</a></h6>
       <p>
-      &#10023; Foster C., et al., <u>&#10023; The MAGPI Collaboration</u>
+      &#10023; Foster C., et al., &#10023; <u>The MAGPI Collaboration</u>
       </p>
     </div>
     <div class="card">
       <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
       <p>
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Matteucci Francesca, &#10023; Palla Marco, &#10023; Lacchin Elena, &#10023; Biviano Andrea
       </p>
       <p>
@@ -325,7 +376,7 @@ stellar initial mass function</h5>
       <h5>3. Dust Evolution in Galaxy Cluster Simulations</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.2588G/abstract">Monthly Notices of the Royal Astronomical Society, 2018, Volume 479, Issue 2, p.2588-2606.</a></h6>
       <p>
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Granato Gian Luigi, &#10023; Murante Giuseppe, &#10023; Ragone-Figueroa Cinthia, &#10023; Tornatore Luca, &#10023; Borgani Stefano. 
       </p>
       <p>
@@ -337,7 +388,7 @@ stellar initial mass function</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015MNRAS.451.1955W/abstract">Monthly Notices of the Royal Astronomical Society, 2015, Volume 451, Issue 2, p.1955-1963.</a></h6>
       <p>
       &#10023; Wang Yun, 
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Kuhlmann Stephen
       </p>
       <p>
@@ -350,7 +401,7 @@ stellar initial mass function</h5>
       <h5>1. Type Ia supernovae selection and forecast of cosmology constraints for the Dark Energy Survey</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2013APh....42...52G/abstract">Astroparticle Physics, 2013, Volume 42, p. 52-61.</a></h6>
       <p>
-      <u>&#10023; Gjergo Eda</u>, 
+      &#10023; <u>Gjergo Eda</u>, 
       &#10023; Duggan Jefferson, 
       &#10023; Cunningham John, 
       &#10023; Kuhlmann Stephen, 
