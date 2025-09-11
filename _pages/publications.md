@@ -79,7 +79,7 @@ body {
 <body>
 
 <div class="header">
-<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0">my ADS search results</a></p>
+<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=gjergo&sort=date%20desc%2C%20bibcode%20desc&p_=0">my ADS search results</a></p>
 <p>
 <a
 id="cy-effective-orcid-url"
@@ -152,6 +152,28 @@ Nanjing, China
       &#9881; Affiliations
       </p>
     </div>-->
+    <div class="card">
+      <h5>18. The effect of the environment-dependent stellar initial mass function on the baryonic Tully–Fisher relation</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1864Z/abstract">Monthly Notices of the Royal Astronomical Society, Volume 542, Issue 3, pp. 1864-1872, 9 pp.</a></h6>
+      <p>
+      &#10023; Zonoozi Akram Hasani,
+      &#10023; Haghi Hosein,
+      &#10023; Kroupa Pavel,
+      &#10023; Yousefizadeh Sara,
+      &#10023; Yan Zhiqiang,
+      &#10023; Jerabkova Tereza,
+      &#10023; <u>Gjergo Eda</u>
+      </p>
+      <p>
+      &#9881; Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan, Iran
+      &#9881; Helmholtz-Institut für Strahlen-und Kernphysik (HISKP), Universität Bonn, Germany
+      &#9881; School of Astronomy, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran
+      &#9881; Charles University in Prague, Czech Republic
+      &#9881; Nanjing University, School of Astronomy and Space Science, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, China 
+      &#9881; Masaryk University, Brno, Czech Republic
+      </p>
+    </div>
     <div class="card">
       <h5>17. The Impact of Early Massive Galaxy Formation on the Cosmic Microwave Background</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250504687G/abstract">Nuclear Physics B, Volume 1017, August 2025, 116931</a></h6>
