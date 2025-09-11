@@ -24,9 +24,9 @@ Strive for things that last. Maximize my contribution to people and society, min
 <h5>Bio</h5>
 <div>
     <p style="float: right;"><img src="/assets/images/about/carrozzina.jpg" width="200px" border="15px"></p>
-    <p align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 alone but with me as a toddler.
+    <p align="justify">I was born in Tirana (Albania) to artist parents. My father is considered the best modern-style painter of the Communist era. Here is a <a href="https://youtu.be/IC5n3oJ7Qfk" target="_blank">2021 Albanian documentary</a> in his memory. After mourning my father who passed away when I was 15 days old, my mother fled the country in 1991 amid unrest, alone except for me, then a toddler. We found a home in Italy, whose culture shaped my upbringing.
     <br><br>
-    We then migrated to Italy, where I had the privilege of assimilating into its rich cultural heritage. My love for astrophysics began in kindergarten and has remained unchanged since. In middle school, I become close friends with Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I co-authored a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> during high school.
+    My love for astrophysics began in kindergarten and has remained unchanged since. In middle school, I become close friends with Italian Astrophysicist and former Observatory Director <a href="https://en.wikipedia.org/wiki/Margherita_Hack" target="_blank">Margherita Hack</a> with whom I co-authored a <a href="/2021/09/03/Outreach/" target="_blank">bestseller</a> during high school.
     </p>
 </div>
 
@@ -43,7 +43,7 @@ I obtained my high school diploma in the selective (3.5% acceptance rate) <a hre
 
 <div>
 <p  align="justify">
-I continued conducting research at ANL until the start of my graduate studies at the <a href="https://df.units.it/en" target="_blank">University of Trieste</a>, where I lead the development of a dust evolution code within zoom-in cosmological simulations of galaxy clusters. I earned a Ph.D. in Physics in Spring 2019. In Fall 2019 I joined the newly-established Astronomy group at <a href="http://202.114.78.174/astro/index.php" target="_blank">Wuhan University</a>. Here I designed and developed <a href="https://github.com/egjergo/GalCEM" target="_blank">GalCEM</a>, a detailed isotopic galactic chemical evolution code. In 2022 I began my second postdoc at <a href='https://www.nju.edu.cn/EN/7f/73/c7136a163699/page.htm' target='_blank'>Nanjing University</a>.
+I continued conducting research at ANL until the start of my graduate studies at the <a href="https://df.units.it/en" target="_blank">University of Trieste</a>, where I lead the development of a dust evolution code within zoom-in cosmological simulations of galaxy clusters. I earned a Ph.D. in Physics in Spring 2019. In Fall 2019 I joined the newly-established Astronomy group at <a href="http://202.114.78.174/astro/index.php" target="_blank">Wuhan University</a>. Here I designed and developed <a href="https://github.com/egjergo/GalCEM" target="_blank">GalCEM</a>, a detailed isotopic galactic chemical evolution code. In 2022 I began my second postdoc at <a href='https://www.nju.edu.cn/EN/7f/73/c7136a163699/page.htm' target='_blank'>Nanjing University</a>, where I investigated the variability of the initial mass function of stars and mechanisms that regulate star formation.
 </p>
 </div>
 
