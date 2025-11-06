@@ -8,8 +8,6 @@ signature: assets/images/about/signature.png
 <div>
     <div>
         <p><a href="{{site.url}}assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV</a>
-        |
-        <a href="{{site.url}}assets/docs/Eda_CV_extended.pdf" target="_blank">Extended CV</a>
         </p>
     </div>
     <!--<div>

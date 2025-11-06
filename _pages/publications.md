@@ -99,7 +99,7 @@ class="underline"
 
 <div class="row">
   <div class="leftcolumn">
-  <h4>Monographs and Proceedings</h4>
+  <h4>Monographs and Reviews</h4>
    <div class="card">
       <h5>2. The initial mass function of stars</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
