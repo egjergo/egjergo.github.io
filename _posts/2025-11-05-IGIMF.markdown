@@ -2,7 +2,7 @@
 title:  "IGIMF: on the variability of the initial mass function"
 author: "Eda Gjergo"
 image: /assets/images/blog/post-IGIMF.jpg
-date: 2025-11-07
+date: 2025-11-05
 ---
 
 ## Postdoc work (Nanjing, China)
