@@ -14,7 +14,7 @@ The Initial Mass Function (IMF) is one of the most important relations in astrop
 
 Stars form from the collapse of dense, cold clumps in molecular clouds.  These conditions do not occur in isolation, rather they arise in clustered environments. Consequently, also stars do not form in isolation but during star-forming episodes where a single stellar population (SSP) is born. The number distribution of newly born stars as a function of mass is the stellar IMF. 
 
-Stars are not born simultaneously. Any given SSP will produce its populations within about a Myr. Therefore the stellar IMF is not an observable quantity. It is instead a theoretical curve that represents the full stellar birth history of a SSP. 
+Stars are not born simultaneously. Any given SSP will produce its stars within about one million year. Therefore, the stellar IMF is not an observable quantity. It is instead a theoretical curve that represents the full stellar birth history of a SSP. 
 
 Multiple SSPs may form within similar timframes in a molecular cloud, and a galaxy may host several such clouds at once. 
 For distant galaxies where individual stars are unresolved, it is important to distinguish between the stellar IMF of an SSP and the cumulative sum of many SSPs formed within a similar timeframe. This cumulative distribution is the galaxy-wide IMF.

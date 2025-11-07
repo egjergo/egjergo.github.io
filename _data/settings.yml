@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Galactic Chemical Evolution <br> star formation and the stellar initial mass function <br> Dust and the Interstellar Medium <br> Cosmological Simulations <br>
+  hero-title: Galactic Chemical Evolution <br> Star Formation and the Stellar Initial Mass Function <br> Dust and the Interstellar Medium <br> Cosmological Simulations <br>
 
 social:
 - {icon: "ti-github", link: "https://github.com/egjergo"}
