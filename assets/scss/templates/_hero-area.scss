@@ -68,18 +68,32 @@
 }
 
 .text-outline {
-  color: #ffffff;                 /* fill */
-  -webkit-text-stroke: 1px #8f8f8f;  /* Chrome/Edge/Safari */
-  text-stroke: 1px #000;
-  /* Firefox fallback: crisp faux stroke */
+  position: relative;         /* anchor for ::before */
+  color: #ffffff;             /* visible fill */
+  z-index: 1;                 /* sit above the underlay */
+  /* keep a subtle separation from busy images */
   text-shadow:
-    -1px -1px 0 #7a7a7a,
-     1px -1px 0 #7a7a7a,
-    -1px  1px 0 #7a7a7a,
-     1px  1px 0 #7a7a7a; 
+    0 0 3px rgba(0,0,0,0.35),
+    0 2px 2px rgba(0,0,0,0.25);
 }
 
-/* If the browser supports real stroke, drop the fallback shadow */
-@supports (-webkit-text-stroke: 1px #8f8f8f) {
-  .text-outline { text-shadow: none; }
+.text-outline::before {
+  content: attr(data-text);   /* duplicate the exact text from a data attribute */
+  position: absolute;
+  inset: 0;                   /* same box as the real text */
+  color: transparent;         /* stroke only */
+  -webkit-text-stroke: 0.7px #3d3d3d; /* thin, crisp outline */
+  z-index: 0;                 /* behind the real text */
+  pointer-events: none;
+}
+
+/* Fallback when -webkit-text-stroke is unavailable */
+@supports not (-webkit-text-stroke: 0.1px #000) {
+  .text-outline::before {
+    text-shadow:
+      -1px -1px 0 #3d3d3d,
+       1px -1px 0 #3d3d3d,
+      -1px  1px 0 #3d3d3d,
+       1px  1px 0 #3d3d3d;
+  }
 }
