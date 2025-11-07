@@ -8,6 +8,8 @@
   h1{
     position: relative;
     z-index: 2;
+    font-weight: 400;     /* not bold */
+    font-synthesis: none; /* prevent synthetic bold/italic */
   }
 }
 
@@ -70,6 +72,7 @@
 .text-outline {
   position: relative;         /* anchor for ::before */
   color: #ffffff;             /* visible fill */
+  font-weight: 400;           /* not bold */
   z-index: 1;                 /* sit above the underlay */
   /* keep a subtle separation from busy images */
   text-shadow:
