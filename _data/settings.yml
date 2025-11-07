@@ -39,7 +39,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Galactic Chemical Evolution <br> Dust and the Interstellar Medium <br> Cosmological Simulations <br>
+  hero-title: Galactic Chemical Evolution <br> star formation and the stellar initial mass function <br> Dust and the Interstellar Medium <br> Cosmological Simulations <br>
 
 social:
 - {icon: "ti-github", link: "https://github.com/egjergo"}
@@ -53,16 +53,16 @@ social:
 
 # About Section
 blurb:
-  I'm an astrophysics postdoc at Nanjing University (China).
-  Prior to this, I was a postdoc at Wuhan University, I earned a Physics Ph.D. in Trieste (Italy), 
-  two B.S. in Applied Mathematics and Physics at Illinois Institute of Technology (Chicago, IL, USA),
-  and I conducted research at Argonne National Lab.
-  
+  I am an Assistant Research Fellow at the School of Astronomy and Space Science, Nanjing University, China. 
+  Previously, I held postdoctoral positions at Wuhan University and at Nanjing University. 
+  I earned a Ph.D. in Physics from the University of Trieste 
+  and B.S. degrees in Applied Mathematics and in Physics from the Illinois Institute of Technology, Chicago. 
+  As an undergraduate, I conducted research at Argonne National Laboratory, Lemont, Illinois.
 
-  I have worked on galactic chemical evolution, dust modeling, 
-  cosmological simulations, the interstellar and intracluster medium, 
+  My research interests include galactic chemical evolution, the stellar initial mass function, 
+  dust modeling, cosmological simulations, the interstellar and intracluster medium, 
   supernova cosmology, and dark energy models. 
-  My outreach activities include a non-fiction bestseller in Italy.
+  My outreach includes a non-fiction bestseller in Italy.
 blurb-btn-link: '/about'
 blurb-btn-name: Visit "About"
 
