@@ -101,7 +101,7 @@ class="underline"
   <div class="leftcolumn">
   <h4>Monographs and Reviews</h4>
    <div class="card">
-      <h5>2. The initial mass function of stars</h5>
+      <h5>3. The initial mass function of stars</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
       <p>
       &#10023; Kroupa Pavel,
@@ -118,7 +118,7 @@ class="underline"
       </p>
     </div>  
     <div class="card">
-      <h5>1. The many tensions with dark-matter based models and implications on the nature of the Universe
+      <h5>2. The many tensions with dark-matter based models and implications on the nature of the Universe
 </h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023eppg.confE.231K/abstract">Proceedings of Science, Corfu2022</a></h6>
       <p>
@@ -139,6 +139,17 @@ class="underline"
       Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education,
 Nanjing, China
       </p>
+    <div class="card">
+      <h5>1. Dust Evolution in Galaxy Cluster Simulations</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019PhDT.......155G/abstract">PhD Thesis</a></h6>
+      <p>
+      &#10023; <u>Gjergo Eda</u>
+      </p>
+      <p>
+      &#9881; INAF Osservatorio Astronomico, Trieste, Italy
+      &#9881; University of Trieste, Trieste, Italy
+      </p>
+    </div>  
     </div>
   <h4>Publications</h4>
     <!--<div class="card">
@@ -152,6 +163,46 @@ Nanjing, China
       &#9881; Affiliations
       </p>
     </div>-->
+    <div class="card">
+      <h5>20. The Initial Mass Function as the Equilibrium State of a Variational Process: why the IMF cannot be sampled stochastically</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260120998G/abstract">accepted by Research in Astronomy and Astrophysics</a></h6>
+      <p>
+      &#10023; <u>Gjergo Eda</u>, 
+      &#10023; Zhang Zhiyu,
+      &#10023; Kroupa Pavel
+      </p>
+      <p>
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing 210023, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, China
+      &#9881; Helmholtz-Institut für Strahlen und Kernphysik, Universität Bonn, Germany
+      &#9881; Charles University in Prague, Czech Republic
+      </p>
+    </div>
+    <div class="card">
+      <h5>19. Massive Star Formation at Supersolar Metallicities: Constraints on the Initial Mass Function</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2026RAA....26b5003G/abstract">Research in Astronomy and Astrophysics, Volume 26, Issue 2, id.025003, 22 pp.</a></h6>
+      <p>
+      &#10023; <u>Gjergo Eda</u>, 
+      &#10023; Zhang Zhiyu,
+      &#10023; Kroupa Pavel,
+      &#10023; Sorokin Aleksei,
+      &#10023; Yan Zhiqiang,
+      &#10023; Guo Ziyi,
+      &#10023; Jerabkova Tereza,
+      &#10023; Zonoozi Akram Hasani,
+      &#10023;  Haghi Hosein
+      </p>
+      <p>
+      &#9881; School of Astronomy and Space Science, Nanjing University, Nanjing 210023, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, China
+      &#9881; Helmholtz-Institut für Strahlen und Kernphysik, Universität Bonn, Germany
+      &#9881; Charles University in Prague, Czech Republic
+      &#9881; Department of Applied Mathematics, Illinois Institute of Technology, Chicago IL, USA
+      &#9881; Masaryk University, Brno, Czech Republic
+      &#9881;  Department of Physics, Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan, Iran
+      &#9881;  School of Astronomy, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran
+      </p>
+    </div>
     <div class="card">
       <h5>18. The effect of the environment-dependent stellar initial mass function on the baryonic Tully–Fisher relation</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.542.1864Z/abstract">Monthly Notices of the Royal Astronomical Society, Volume 542, Issue 3, pp. 1864-1872, 9 pp.</a></h6>
