@@ -27,7 +27,7 @@ I have also taught parts of an Astrophysics course at Charles University in Prag
 <a target="_blank"  href="#"> </a>
 
 ### Classical Mechanics at Wuhan University: 
-#### Hydrostatic Equilibrium & Astrophysics (2 class periods, Fall 2020)
+#### Hydrostatic Equilibrium & Astrophysics (2 classes, Fall 2020)
 
 
 <a href="{{site.url}}assets/docs/Print_CM-Astro_Fall2020_pt1_small.pdf">
@@ -36,7 +36,7 @@ I have also taught parts of an Astrophysics course at Charles University in Prag
 
 
 ### Introduction to Astrophysics at Università degli Studi di Trieste:
-#### General Relativity and Cosmology (2 class periods twice, Fall 2017 and Fall 2018)
+#### General Relativity and Cosmology (2 classes, delivered twice, Fall 2017 and Fall 2018)
 
 <a href="{{site.url}}assets/docs/MatteucciClassPres.pdf">
 <img src="/assets/docs/units.png" width="540px" alt="units" title="UniTS lecture"/>
