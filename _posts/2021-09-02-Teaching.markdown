@@ -9,10 +9,15 @@ date: 2021-09-02
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
 
-I have mentored a Wuhan University undergraduate student, Jinning Liang, with research on galactic chemical evolution.
+I have mentored a Wuhan University undergraduate student, Jinning Liang, with research on galactic chemical evolution. 
 
 I have also taught 2 class periods in Classical Mechanics and Introduction to Astrophysics. The classroom lecture slides are attached to the previews below:
 
+
+### Selected Chapters in Astrophysics at Charles University, Prague: 
+#### Galactic Evolution, the Initial Mass Function, and cosmological implications (6 hours, Fall 2025)
+
+<a href="https://astro.troja.mff.cuni.cz/chapters.html">Course website</a>
 
 
 ### Classical Mechanics at Wuhan University: 
