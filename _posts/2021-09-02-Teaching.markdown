@@ -5,7 +5,7 @@ image: /assets/images/blog/post-5.jpg
 date: 2021-09-02
 ---
 
-## Lectures at Wuhan University and Università degli Studi di Trieste
+## Lectures in Cosmology, Galactic Chemical Evolution, and related topics
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  
 I have mentored five early career researchers, including four students and one postdoctoral researcher, at Wuhan University, Nanjing University, and the Institute for Basic Science (Daejeon, South Korea). This mentorship led to first author publications and research awards. Details are provided in my CV.
@@ -15,10 +15,16 @@ I have also taught parts of an Astrophysics course at Charles University in Prag
 
 
 ### Selected Chapters in Astrophysics at Charles University, Prague: 
-#### Galactic Evolution, the Initial Mass Function, and cosmological implications (6 hours, Fall 2025)
+#### Chemical Evolution, Galactic Evolution, the Initial Mass Function, and cosmological implications (6 hours, Fall 2025)
 
-<a href="https://astro.troja.mff.cuni.cz/chapters.html">Course website</a>
+<a target="_blank" href="https://astro.troja.mff.cuni.cz/chapters.html">Course website</a>
 
+
+
+### Special invited lecture at Nanjing University:
+#### Introduction to Galactic Chemical Evolution (2 hours, Summer 2023)
+
+<a target="_blank"  href="#"> </a>
 
 ### Classical Mechanics at Wuhan University: 
 #### Hydrostatic Equilibrium & Astrophysics (2 class periods, Fall 2020)
