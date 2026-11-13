@@ -3,64 +3,61 @@ layout: page3
 title: Publications
 ---
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {
+.publications * {
   box-sizing: border-box;
 }
 
 /* Add a gray background color with some padding */
-body {
+.publications {
   padding: 0px;
 }
 
 /* Header/Blog Title */
-.header {
+.publications .header {
   padding: 0px;
-  font-size: 30px;
+  font-size: 18px;
   text-align: center;
   background: white;
 }
 
 /* Create two unequal columns that floats next to each other */
 /* Left column */
-.leftcolumn {   
+.publications .leftcolumn {
   float: left;
   width: 100%;
 }
 
 /* Right column */
-.rightcolumn {
+.publications .rightcolumn {
   float: left;
   width: 0%;
   padding-left: 0px;
 }
 
 /* Fake image */
-.fakeimg {
+.publications .fakeimg {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
 }
 
 /* Add a card effect for articles */
-.card {
+.publications .card {
    background-color: white;
    padding: 10px;
    margin-top: 10px;
 }
 
 /* Clear floats after the columns */
-.row:after {
+.publications .row:after {
   content: "";
   display: table;
   clear: both;
 }
 
 /* Footer */
-.footer {
+.publications .footer {
   padding: 10px;
   text-align: center;
   background: #ddd;
@@ -69,17 +66,18 @@ body {
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 1600px) {
-  .leftcolumn, .rightcolumn {   
+  .publications .leftcolumn, .publications .rightcolumn {
     width: 100%;
     padding: 0;
   }
 }
 </style>
-</head>
-<body>
+<div class="publications">
 
 <div class="header">
-<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=gjergo&sort=date%20desc%2C%20bibcode%20desc&p_=0">my ADS search results</a></p>
+<p><strong>Assistant Professor, Beihang University, Beijing, China</strong></p>
+<p>Last updated: 13 November 2026. Affiliations listed with papers refer to the time of publication.</p>
+<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Gjergo%2C%20E%22&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0">my ADS search results</a></p>
 <p>
 <a
 id="cy-effective-orcid-url"
@@ -99,10 +97,19 @@ class="underline"
 
 <div class="row">
   <div class="leftcolumn">
-  <h4>Monographs and Reviews</h4>
+  <h4>Monographs, Reviews, and Proceedings</h4>
+    <div class="card">
+      <h5>4. The relevance of the cosmic microwave background for cosmology</h5>
+      <h6><a target="_blank" href="https://doi.org/10.22323/1.509.0224">Proceedings of Science, CORFU2025, 224 (2026)</a></h6>
+      <p>
+      &#10023; Kroupa Pavel,
+      &#10023; <u>Gjergo Eda</u>,
+      &#10023; Samaras Nikolaos
+      </p>
+    </div>
    <div class="card">
       <h5>3. The initial mass function of stars</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024arXiv241007311K/abstract">Chapter in the Encyclopedia of Astrophysics, Elsevier.</a></h6>
+      <h6><a target="_blank" href="https://doi.org/10.1016/B978-0-443-21439-4.00035-3">Encyclopedia of Astrophysics, Volume 2, pp. 173–210, Elsevier (2026)</a></h6>
       <p>
       &#10023; Kroupa Pavel,
       &#10023; <u>Gjergo Eda</u>, 
@@ -139,6 +146,7 @@ class="underline"
       Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education,
 Nanjing, China
       </p>
+    </div>
     <div class="card">
       <h5>1. Dust Evolution in Galaxy Cluster Simulations</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019PhDT.......155G/abstract">PhD Thesis</a></h6>
@@ -149,23 +157,86 @@ Nanjing, China
       &#9881; INAF Osservatorio Astronomico, Trieste, Italy
       &#9881; University of Trieste, Trieste, Italy
       </p>
-    </div>  
     </div>
-  <h4>Publications</h4>
-    <!--<div class="card">
-      <h5>Title</h5>
-      <h6><a target="_blank" href="#">bib</a></h6>
-      <p>
-      &#10023; <u>Gjergo Eda</u>, 
-      et al.
-      </p>
-      <p>
-      &#9881; Affiliations
-      </p>
-    </div>-->
+  <h4>Journal Articles</h4>
     <div class="card">
-      <h5>20. The Initial Mass Function as the Equilibrium State of a Variational Process: why the IMF cannot be sampled stochastically</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2026arXiv260120998G/abstract">accepted by Research in Astronomy and Astrophysics</a></h6>
+      <h5>26. Gravitational boost from second-order perturbations in a linearly expanding closed universe</h5>
+      <h6><a target="_blank" href="https://journals.aps.org/prd/abstract/10.1103/2gw1-1bd8">Physical Review D, published 13 November 2026</a></h6>
+      <p>
+      &#10023; <u>Gjergo Eda</u>, &#10023; Kroupa Pavel
+      </p>
+    </div>
+    <div class="card">
+      <h5>25. The MAGPI survey: emission-line products data release and the role of spectroscopic aperture covering fraction on the Balmer decrement–stellar mass relation</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1093/mnras/stag1585">Monthly Notices of the Royal Astronomical Society, Volume 552, Issue 1, stag1585 (2026)</a></h6>
+      <p>
+      &#10023; Battisti A. J., et al., including &#10023; <u>Gjergo Eda</u>
+      </p>
+    </div>
+    <div class="card">
+      <h5>24. The Sc, Ti, and V Abundance Discrepancy: Testing High-mass Initial Mass Function Variation and Massive-star Rotation</h5>
+      <h6><a target="_blank" href="https://doi.org/10.3847/1538-4357/ae915d">The Astrophysical Journal, Volume 1008, Issue 1, 126 (2026)</a></h6>
+      <p>
+      &#10023; Choi Soonchul,
+      &#10023; <u>Gjergo Eda</u>,
+      &#10023; Kim Youngman,
+      &#10023; Kajino Toshitaka
+      </p>
+    </div>
+    <div class="card">
+      <h5>23. Limited imprint of high-mass initial mass function variations on sodium abundances in main sequence galaxies</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1051/0004-6361/202659176">Astronomy &amp; Astrophysics, Volume 712, A96 (2026)</a></h6>
+      <p>
+      &#10023; Guo Ziyi,
+      &#10023; Romano Donatella,
+      &#10023; Yan Zhiqiang,
+      &#10023; Zhang Zhi-Yu,
+      &#10023; Fu Xiaoting,
+      &#10023; Xie Lizhi,
+      &#10023; Jerabkova Tereza,
+      &#10023; De Lucia Gabriella,
+      &#10023; Hirschmann Michaela,
+      &#10023; Fontanot Fabio,
+      &#10023; <u>Gjergo Eda</u>,
+      &#10023; Concas Alice,
+      &#10023; Tang Xiaodong
+      </p>
+    </div>
+    <div class="card">
+      <h5>22. Baryonic mass budgets in the central regions of the Bullet Cluster and their consistency with strong lensing in MOND</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1103/6zrp-q7c4">Physical Review D, Volume 114, 023001 (2026)</a></h6>
+      <p>
+      &#10023; Zhang Dong,
+      &#10023; Haghi Hosein,
+      &#10023; Asencio Elena,
+      &#10023; Banik Indranil,
+      &#10023; Zonoozi Akram Hasani,
+      &#10023; Cha Sangjun,
+      &#10023; Cho Boseong Young,
+      &#10023; Joo Hyungjin,
+      &#10023; Kroupa Pavel,
+      &#10023; Lazutkina Anastasiia,
+      &#10023; <u>Gjergo Eda</u>
+      </p>
+    </div>
+    <div class="card">
+      <h5>21. The <i>m</i><sub>max</sub>–<i>M</i><sub>ecl</sub> relation in the LEGUS clusters</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1051/0004-6361/202556969">Astronomy &amp; Astrophysics, Volume 709, A4 (2026)</a></h6>
+      <p>
+      &#10023; Zinnkann Marie,
+      &#10023; Jerabkova Tereza,
+      &#10023; Yan Zhiqiang,
+      &#10023; Kroupa Pavel,
+      &#10023; Ostermann Yannik,
+      &#10023; <u>Gjergo Eda</u>,
+      &#10023; Hasani Zonoozi Akram,
+      &#10023; Haghi Hosein,
+      &#10023; Pflamm-Altenburg Jan
+      </p>
+    </div>
+    <div class="card">
+      <h5>20. The Initial Mass Function as the Equilibrium State of a Variational Process: Why the IMF Cannot be Sampled Stochastically</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1088/1674-4527/ae4600">Research in Astronomy and Astrophysics, Volume 26, Issue 5, 055012 (2026)</a></h6>
       <p>
       &#10023; <u>Gjergo Eda</u>, 
       &#10023; Zhang Zhiyu,
@@ -227,7 +298,7 @@ Nanjing, China
     </div>
     <div class="card">
       <h5>17. The Impact of Early Massive Galaxy Formation on the Cosmic Microwave Background</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250504687G/abstract">Nuclear Physics B, Volume 1017, August 2025, 116931</a></h6>
+      <h6><a target="_blank" href="https://doi.org/10.1016/j.nuclphysb.2025.116931">Nuclear Physics B, Volume 1017, August 2025, 116931</a></h6>
       <p>
       &#10023; <u>Gjergo Eda</u>, 
       &#10023; Kroupa Pavel
@@ -240,11 +311,11 @@ Nanjing, China
       </p>
     </div>
     <div class="card">
-      <h5>16. Alien-Type-Ia supernovae from the Milky Way merger history and one possible candidate -- Kepler's supernova</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250503085H/abstract">Accepted for publication in ApJ</a></h6>
+      <h5>16. Alien Type Ia Supernovae from the Milky Way Merger History and One Possible Candidate: Kepler’s Supernova</h5>
+      <h6><a target="_blank" href="https://doi.org/10.3847/1538-4357/add32b">The Astrophysical Journal, Volume 986, Issue 2, 123 (2025)</a></h6>
       <p>
       &#10023; He Wenlang,
-      &#10023; Ping Zhou,
+      &#10023; Zhou Ping,
       &#10023; <u>Gjergo Eda (co-corresponding author)</u>,
       &#10023; Fu Xiaoting
       </p>
@@ -255,8 +326,8 @@ Nanjing, China
       </p>
     </div>
     <div class="card">
-      <h5>15. The p-Laplacian as a Framework for Generalizing Newtonian Gravity and MoND</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250417002S/abstract">Accepted for publication in A&amp;A</a></h6>
+      <h5>15. The p-Laplacian as a framework for generalizing Newtonian gravity and Milgromian gravitation</h5>
+      <h6><a target="_blank" href="https://doi.org/10.1051/0004-6361/202554793">Astronomy &amp; Astrophysics, Volume 698, A167 (2025)</a></h6>
       <p>
       &#10023; Scherer David,
       &#10023; Pflamm-Altenburg Jan,
@@ -272,7 +343,7 @@ Nanjing, China
     </div>
         <div class="card">
       <h5>14. The MAGPI Survey -- the kinematic morphology-density relation (or lack thereof) and the Hubble sequence at  z∼0.3</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2025arXiv250216751F/abstract">Accepted for publication in PASA.</a></h6>
+      <h6><a target="_blank" href="https://doi.org/10.1017/pasa.2025.19">Publications of the Astronomical Society of Australia, Volume 42, e058 (2025)</a></h6>
       <p>
       &#10023; Foster C., et al., &#10023; <u>The MAGPI Collaboration</u>
       </p>
@@ -298,29 +369,8 @@ Nanjing, China
       </p>
     </div>
     <div class="card">
-      <h5>12. The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024ApJ...969...95Y/abstract">The Astrophysical Journal, Volume 969, Issue 2, id.95, 11 pp.</a></h6>
-      <p>
-      &#10023; Yan Zhiqiang,
-      &#10023; Li Jiadong,
-      &#10023; Kroupa Pavel,
-      &#10023; Jerabkova Tereza,
-      &#10023; <u>Gjergo Eda</u>,
-      &#10023; Zhang Zhi-Yu 
-      </p>
-      <p>
-      &#9881; School of Astronomy and Space Science, Nanjing University, China
-      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education, Nanjing, China
-      &#9881; Max-Planck-Institut für Astronomie, Heidelberg, Germany
-      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik (HISKP), Universität Bonn, Bonn, Germany
-      &#9881; Charles University in Prague, Faculty of Mathematics and Physics, Astronomical Institute, Praha, Czech Republic
-      &#9881; European Southern Observatory, Garching, Germany
-      </p>
-    </div>
-    <div class="card">
-      <h5>11. First detection of CO isotopologues in a high-redshift main-sequence galaxy: evidence of a topheavy
-stellar initial mass function</h5>
-      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8886B/abstract">The Astrophysical Journal, Volume 970, Issue 2, id.136, 11 pp.</a></h6>
+      <h5>12. First Detection of CO Isotopologues in a High-redshift Main-sequence Galaxy: Evidence of a Top-heavy Stellar Initial Mass Function</h5>
+      <h6><a target="_blank" href="https://doi.org/10.3847/1538-4357/ad4da2">The Astrophysical Journal, Volume 970, Issue 2, id.136, 11 pp.</a></h6>
       <p>
       &#10023; Guo Ziyi, 
       &#10023; Zhang Zhi-Yu,
@@ -340,6 +390,26 @@ stellar initial mass function</h5>
       &#9881; Centre of Excellence for All Sky Astrophysics in 3 Dimensions (ASTRO 3D), Australia
       &#9881; Institute for Astronomy, University of Edinburgh, Edinburgh UK
       &#9881; Purple Mountain Observatory, Chinese Academy of Sciences, Nanjing, China
+      </p>
+    </div>
+    <div class="card">
+      <h5>11. The Variation in the Galaxy-wide Initial Mass Function for Low-mass Stars: Modeling and Observational Insights</h5>
+      <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024ApJ...969...95Y/abstract">The Astrophysical Journal, Volume 969, Issue 2, id.95, 11 pp.</a></h6>
+      <p>
+      &#10023; Yan Zhiqiang,
+      &#10023; Li Jiadong,
+      &#10023; Kroupa Pavel,
+      &#10023; Jerabkova Tereza,
+      &#10023; <u>Gjergo Eda</u>,
+      &#10023; Zhang Zhi-Yu
+      </p>
+      <p>
+      &#9881; School of Astronomy and Space Science, Nanjing University, China
+      &#9881; Key Laboratory of Modern Astronomy and Astrophysics, Nanjing University, Ministry of Education, Nanjing, China
+      &#9881; Max-Planck-Institut für Astronomie, Heidelberg, Germany
+      &#9881; Helmholtz-Institut für Strahlen- und Kernphysik (HISKP), Universität Bonn, Bonn, Germany
+      &#9881; Charles University in Prague, Faculty of Mathematics and Physics, Astronomical Institute, Praha, Czech Republic
+      &#9881; European Southern Observatory, Garching, Germany
       </p>
     </div>
     <div class="card">
@@ -387,7 +457,7 @@ stellar initial mass function</h5>
       </p>
     </div>
     <div class="card">
-      <h5>8. Yield performance against local stellar abundances within a fixed NuPyCEE parametrization</h5>
+      <h5>8. Assessing stellar yields in Galaxy chemical evolution: Observational stellar abundance patterns</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">Monthly Notices of the Royal Astronomical Society, 2023, Volume 522, Issue 1, pp.863-884</a></h6>
       <p>
       &#10023; Liang Jinning, 
@@ -433,11 +503,11 @@ stellar initial mass function</h5>
       </p>
     </div>
     <div class="card">
-      <h5>4. On the Origin of the Galaxy Cluster Dust at low to intermediate redshift</h5>
+      <h5>4. On the origin of dust in galaxy clusters at low-to-intermediate redshift</h5>
       <h6><a target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.2782G/abstract">Monthly Notices of the Royal Astronomical Society, 2020, Volume 493, Issue 2, p.2782-2792.</a></h6>
       <p>
       &#10023; <u>Gjergo Eda</u>, 
-      &#10023; Matteucci Francesca, &#10023; Palla Marco, &#10023; Lacchin Elena, &#10023; Biviano Andrea
+      &#10023; Palla Marco, &#10023; Matteucci Francesca, &#10023; Lacchin Elena, &#10023; Biviano Andrea, &#10023; Fan Xilong
       </p>
       <p>
       &#9881; Osservatorio Astronomico di Trieste INAF, &#9881; Università degli Studi di Trieste, &#9881; Institute Nazionale di Fisica Nucleare (INFN).
@@ -488,19 +558,5 @@ stellar initial mass function</h5>
       </p>
     </div>
   </div>
-<!--  <div class="rightcolumn">
-  <h4>Proceedings & Conferences</h4>
-    <div class="card">
-      <h5>Title</h5>
-      <h6><a target="_blank" href="#">bib</a></h6>
-      <p>
-      <u>Gjergo Eda</u>, 
-      et al.
-      </p>
-      <p>
-      Affiliations
-      </p>
-    </div>
-  </div>
-</div>-->
-
+</div>
+</div>

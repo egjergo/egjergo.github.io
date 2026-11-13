@@ -4,7 +4,7 @@
 title: Eda Gjergo
 logo: 
 author: Eda Gjergo
-description: Astrophysics Postdoc
+description: Eda Gjergo, astrophysicist and Assistant Professor at Beihang University, Beijing, China.
 email: <a href="mailto:eda.gjergo@gmail.com" target="_blank"> Contact me</a>
 github: <a href="https://github.com/egjergo" target="_blank"> Visit my Github</a>
 publications: <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22gjergo%2C%20e%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" target="_blank">My publication list on ADS</a>
@@ -52,8 +52,8 @@ social:
 
 # About Section
 blurb:
-  I am an Assistant Research Fellow at the School of Astronomy and Space Science, Nanjing University, China. 
-  Previously, I held postdoctoral positions at Wuhan University and at Nanjing University. 
+  I am an Assistant Professor at Beihang University, Beijing, China.
+  I was an Assistant Research Fellow at Nanjing University, following postdoctoral positions at Wuhan University and Nanjing University.
   I earned a Ph.D. in Physics from the University of Trieste 
   and B.S. degrees in Applied Mathematics and in Physics from the Illinois Institute of Technology, Chicago. 
   As an undergraduate, I conducted research at Argonne National Laboratory, Lemont, Illinois.
@@ -101,7 +101,7 @@ blurb-btn-name: Visit "About"
 #-------------------------------
 # Skills Section
 
-skills-title: Current Research Intersts
+skills-title: Current Research Interests
 skills:
 - {name: Galactic Chemical and Dust Evolution, color: '#fdb157', value: '85%'}
 - {name: Interstellar Medium, color: '#9473e6', value: '10%'}
@@ -118,7 +118,9 @@ positions:
 - {name: Junior Research Assistant, icon: 'icon-1.png', date: '2011 - 2015', organization: 'Argonne National Laboratory (Chicago, IL, USA)'}
 - {name: Research Assistant, icon: 'icon-2.png', date: '2015 - 2019', organization: 'Osservatorio Astronomico INAF (Trieste, Italy)'}
 - {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2019 - 2022', organization: 'Wuhan University (Wuhan, China)'}
-- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2022 - Present', organization: 'Nanjing University (Nanjing, China)'}
+- {name: Postdoctoral Fellow, icon: 'icon-3.png', date: '2022 - 2025', organization: 'Nanjing University (Nanjing, China)'}
+- {name: Assistant Research Fellow, icon: 'icon-3.png', date: '2025 - 2026', organization: 'Nanjing University (Nanjing, China)'}
+- {name: Assistant Professor, icon: 'icon-3.png', date: '2026 - Present', organization: 'Beihang University (Beijing, China)'}
 
 
 #-------------------------------

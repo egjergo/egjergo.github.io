@@ -32,10 +32,10 @@ The IGIMF theory is also among the first to recognize and quantify the variabili
 
 Moreover, the IGIMF theory is providing theoretical insights on the yet-unknown physical mechanisms that trigger star formation in dense gas clumps.
 
-See the monograph chapter to appear in [Elsevier's Encyclopedia of Astrophysics](https://ui.adsabs.harvard.edu/abs/2026enap....2..173K/abstract) for an overview of the field.
+See the monograph chapter in [Elsevier's Encyclopedia of Astrophysics](https://doi.org/10.1016/B978-0-443-21439-4.00035-3) for an overview of the field.
 
 
-You can compute the IGIMF as a function of average star formation rate and metallicity using the code presented in [this RAA paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250920440G/abstract), which also outlines milestones of the IGIMF theory.
+You can compute the IGIMF as a function of average star formation rate and metallicity using the code presented in [this RAA paper](https://doi.org/10.1088/1674-4527/ae1f79), which also outlines milestones of the IGIMF theory.
 
 
 
