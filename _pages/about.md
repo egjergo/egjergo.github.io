@@ -9,7 +9,7 @@ signature: assets/images/about/signature.png
 
 <div>
     <div>
-        <p><a href="{{site.url}}assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV (November 2025)</a>
+        <p><a href="{{site.url}}assets/docs/Eda_CV_compact.pdf" target="_blank">Short CV (November 2026)</a>
         </p>
     </div>
     <!--<div>
