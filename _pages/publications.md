@@ -77,7 +77,7 @@ title: Publications
 <div class="header">
 <p><strong>Assistant Professor, Beihang University, Beijing, China</strong></p>
 <p>Last updated: 13 November 2026. Affiliations listed with papers refer to the time of publication.</p>
-<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://scixplorer.org/search?p=1&amp;q=gjergo&amp;sort=date+desc&amp;d=astrophysics">my SciX search results</a></p>
+<p>For an up-to-date list of publications, please visit <a target="_blank" href="https://scixplorer.org/search?p=1&amp;q=gjergo&amp;sort=date+desc&amp;d=astrophysics">my SciX search results</a> or <a target="_blank" href="https://scholar.google.com/citations?user=RjG_6VkAAAAJ">my Google Scholar Profile</a></p>
 <p>
 <a
 id="cy-effective-orcid-url"
